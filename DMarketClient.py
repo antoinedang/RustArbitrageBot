@@ -33,6 +33,8 @@ class DMarket:
         return headers
     def getPricesForItems(self, items):
         all_prices = {}
+        for item in items:
+            all_prices[item] = {}
         items_per_request = 50
         for i in range(math.ceil(len(items)/items_per_request)):
             try:
@@ -43,7 +45,6 @@ class DMarket:
                 url = self.api_url + endpoint
                 response = json.loads(requests.get(url, headers=headers, params=params).text)
                 for aggr in response["AggregatedTitles"]:
-                    all_prices[aggr["MarketHashName"]] = {}
                     all_prices[aggr["MarketHashName"]]["buy"] = 9999999999 if float(aggr["Offers"]['BestPrice']) <= 0 else math.floor(100 * float(aggr["Offers"]['BestPrice'])) / 100
                     all_prices[aggr["MarketHashName"]]["sell"] = math.floor(100 * float(aggr["Orders"]['BestPrice']) * (1.0 - self.selling_fee)) / 100
             except Exception as e:
