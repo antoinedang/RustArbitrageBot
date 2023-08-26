@@ -18,13 +18,14 @@ def loadFromFile(filename):
 def scan_for_opportunities():
     global current_opportunities
     while scanning_active:
-        swapgg_prices = swapgg.getPricesForAllItems()
-        for item in swapgg_prices.keys():
+        for item in swapgg.getLatestPrices().keys():
             if not scanning_active: return
-            dmarket_prices = dmarket.getPricesForItems([str(item)])
-
-            best_buy_price = min(dmarket_prices[item].get("buy",9999999), swapgg_prices[item].get("buy",9999999))
-            best_sell_price = max(dmarket_prices[item].get("sell",0), swapgg_prices[item].get("sell",0))
+            dmarket_prices = dmarket.getLatestPrices()
+            swapgg_prices = swapgg.getLatestPrices()
+            try:
+                best_buy_price = min(dmarket_prices[item].get("buy",9999999), swapgg_prices[item].get("buy",9999999))
+                best_sell_price = max(dmarket_prices[item].get("sell",0), swapgg_prices[item].get("sell",0))
+            except KeyError: continue
             profit = math.floor((best_sell_price-best_buy_price) * 100) / 100
             if profit > 0:
                 if best_buy_price == dmarket_prices[item].get("buy",9999999):
@@ -47,6 +48,7 @@ def scan_for_opportunities():
                 except Exception as e:
                     print("scan_for_opportunities error: {}".format(e))
                 current_opportunities_lock.release()
+        print("Finished scan...              ", end='\r')
             
 def log(msg):
     if not log_lock.acquire(timeout=lock_timeout):
@@ -107,6 +109,15 @@ def register_opportunity_end(item):
     update_market_stats(profit, roi, duration)
     del current_opportunities[item]
 
+def update_swapgg_prices():
+    while update_market_prices:
+        swapgg.updatePricesForAllItems()
+
+def update_dmarket_prices():
+    while update_market_prices:
+        dmarket.updatePricesForItems(list(swapgg.getLatestPrices().keys()))
+        print("Updated DMarket prices...                   ", end='\r')
+
 def update_market_data():
     global total_time_elapsed_during_analysis
     while update_market_data_active:
@@ -136,8 +147,8 @@ def check_current_opportunities():
         current_opportunities_lock.release()
         for item in items:
             if not checking_active: return
-            swapgg_price = swapgg.getPricesForAllItems()[str(item)]
-            dmarket_price = dmarket.getPricesForItems([str(item)])[str(item)]
+            dmarket_price = dmarket.getLatestPrices()[item]
+            swapgg_price = swapgg.getLatestPrices()[item]
 
             best_buy_price = min(dmarket_price.get("buy",9999999), swapgg_price.get("buy",9999999))
             best_sell_price = max(dmarket_price.get("sell",0), swapgg_price.get("sell",0))
@@ -174,17 +185,20 @@ dmarket = DMarket(public_key="43361c690ccddfd9e9bde83be42dd2cb27d3d3841c5496dbc9
 swapgg = SwapGG(api_key="40672ac2-5b00-4609-92fe-d260498a1f7c")
 
 update_market_data_thread = threading.Thread(target=update_market_data)
+market_price_threads = [threading.Thread(target=update_dmarket_prices), threading.Thread(target=update_swapgg_prices)]
 scanner_thread = threading.Thread(target=scan_for_opportunities)
 checking_thread = threading.Thread(target=check_current_opportunities)
 
 try:
     update_market_data_active = True
+    update_market_prices = True
     scanning_active = True
     checking_active = True
+    print("Starting analysis...", end='\r')
     update_market_data_thread.start()
+    for m in market_price_threads: m.start()
     scanner_thread.start()
     checking_thread.start()
-    print("Started analysis.")
     while True:
         pass
 except KeyboardInterrupt:
@@ -194,14 +208,16 @@ except KeyboardInterrupt:
     print("Ending checking...")
     checking_active = False
     checking_thread.join()
-    print("Ending market time updates...")
+    print("Ending market updates...")
     update_market_data_active = False
+    update_market_prices = False
     update_market_data_thread.join()
+    for m in market_price_threads: m.join()
     print("Ending ongoing opportunities...")
     items = [str(k) for k in current_opportunities.keys()]
+    log("======= OPPORTUNITIES ENDED PREMATURELY =======")
     for item in items:
-        log("======= OPPORTUNITIES ENDED PREMATURELY =======")
         # Artificially "end" all ongoing opportunities for logging/debugging purposes
         register_opportunity_end(item)
-        log("===============================================")
+    log("===============================================")
     print("Done.")

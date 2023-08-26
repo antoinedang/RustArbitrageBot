@@ -6,6 +6,7 @@ import requests
 import math
 from furl import furl
 import threading
+import copy
 
 class DMarket:
     def __init__(self, public_key, secret_key):
@@ -13,7 +14,7 @@ class DMarket:
         self.secret_key = secret_key
         self.selling_fee = 0.07
         self.api_url = "https://api.dmarket.com"
-        self.latest_prices = {}
+        self.prices = {}
         self.lock = threading.Lock()
     def generate_headers(self, method, endpoint, params, body={}):
         nonce = str(round(datetime.now().timestamp()))
@@ -33,31 +34,31 @@ class DMarket:
             "X-Sign-Date": nonce
         }
         return headers
-    def getPricesForItems(self, items):
-        all_prices = {}
-        for item in items:
-            all_prices[item] = {}
-        items_per_request = 50
+    def updatePricesForItems(self, items):
+        items_per_request = 100
         for i in range(math.ceil(len(items)/items_per_request)):
-            self.lock.acquire()
-            try:
-                method = "GET"
-                endpoint = "/price-aggregator/v1/aggregated-prices"
-                params = {'Titles': items[i*items_per_request:(i+1)*items_per_request]}
-                headers = self.generate_headers(method, endpoint, params)
-                url = self.api_url + endpoint
-                response = json.loads(requests.get(url, headers=headers, params=params).text)
-                # print("all_prices {}".format(all_prices))
-                for aggr in response["AggregatedTitles"]:
-                    all_prices[aggr["MarketHashName"]]["buy"] = 9999999999 if float(aggr["Offers"]['BestPrice']) <= 0 else math.floor(100 * float(aggr["Offers"]['BestPrice'])) / 100
-                    all_prices[aggr["MarketHashName"]]["sell"] = math.floor(100 * float(aggr["Orders"]['BestPrice']) * (1.0 - self.selling_fee)) / 100
-            except Exception as e:
-                print("DMarket error: " + str(e))
+            method = "GET"
+            endpoint = "/price-aggregator/v1/aggregated-prices"
+            params = {'Titles': items[i*items_per_request:(i+1)*items_per_request]}
+            headers = self.generate_headers(method, endpoint, params)
+            url = self.api_url + endpoint
+            response = json.loads(requests.get(url, headers=headers, params=params).text)
+            for aggr in response["AggregatedTitles"]:
+                self.lock.acquire()
+                try:
+                    if aggr["MarketHashName"] not in self.prices.keys(): self.prices[aggr["MarketHashName"]] = {}
+                    self.prices[aggr["MarketHashName"]]["buy"] = 9999999999 if float(aggr["Offers"]['BestPrice']) <= 0 else math.floor(100 * float(aggr["Offers"]['BestPrice'])) / 100
+                    self.prices[aggr["MarketHashName"]]["sell"] = math.floor(100 * float(aggr["Orders"]['BestPrice']) * (1.0 - self.selling_fee)) / 100
+                except Exception as e:
+                    print("DMarket error: " + str(e))
+                self.lock.release()
             time.sleep(0.35)
-            self.lock.release()
             # print("Getting DMarket prices... {}%                                            ".format(100*(i+1)/math.ceil(len(items)/items_per_request)), end='\r')
-        self.latest_prices.update(all_prices)
-        return all_prices
+    def getLatestPrices(self):
+        self.lock.acquire()
+        prices_copy = copy.deepcopy(self.prices)
+        self.lock.release()
+        return prices_copy
     def buyItemAtBestPrice(self, item):
         pass
     def sellItemAtBestPrice(self, item):

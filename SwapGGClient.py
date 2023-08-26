@@ -4,54 +4,55 @@ import time
 from currency_converter import CurrencyConverter
 import math
 import threading
+import copy
 
 class SwapGG:
     def __init__(self, api_key):
         self.selling_fee = 0.05
         self.api_url = "https://market-api.swap.gg"
-        self.latest_prices = {}
+        self.prices = {}
         self.headers = {
             "Authorization": api_key
         }
         self.appId = 252490
         self.lock = threading.Lock()
-    def getPricesForAllItems(self):
+    def updatePricesForAllItems(self):
         eurToUsd = CurrencyConverter().convert(1, "EUR", "USD")
-        all_prices = {}
+
         endpoint = "/v1/buyorders/summary"
         params = {'appId': self.appId}
         url = self.api_url + endpoint
-
-        self.lock.acquire()
-        try:
-            response = json.loads(requests.get(url, headers=self.headers, params=params).text)
-            for item in response["result"].keys():
-                all_prices[str(item)] = {}
-                all_prices[str(item)]["sell"] = math.floor(eurToUsd * float(response["result"][item]['maxPrice']) * (1.0 - self.selling_fee)) / 100
-        except Exception as e:
-            print("Swapgg p1 error: " + str(e))
-        time.sleep(0.35)
-        self.lock.release()
+        response = json.loads(requests.get(url, headers=self.headers, params=params).text)
+        for item in response["result"].keys():
+            self.lock.acquire()
+            try:
+                if item not in self.prices.keys():
+                    self.prices[str(item)] = {}
+                self.prices[str(item)]["sell"] = math.floor(eurToUsd * float(response["result"][item]['maxPrice']) * (1.0 - self.selling_fee)) / 100
+            except Exception as e:
+                print("Swapgg p2 error: " + str(e))
+            self.lock.release()
 
         endpoint = "/v1/pricing/lowest"
         params = {'appId': self.appId}
         url = self.api_url + endpoint
-
-        self.lock.acquire()
-        try:
-            response = json.loads(requests.get(url, headers=self.headers, params=params).text)
-            for item in response["result"].keys():
-                if item not in all_prices.keys():
-                    all_prices[str(item)] = {}
-                all_prices[str(item)]["buy"] = math.floor(eurToUsd * float(response["result"][item]['price'])) / 100
+        response = json.loads(requests.get(url, headers=self.headers, params=params).text)
+        for item in response["result"].keys():
+            self.lock.acquire()
+            try:
+                if item not in self.prices.keys():
+                    self.prices[str(item)] = {}
+                self.prices[str(item)]["buy"] = math.floor(eurToUsd * float(response["result"][item]['price'])) / 100
+            except Exception as e:
+                print("Swapgg p2 error: " + str(e))
+            self.lock.release()
     
-            self.latest_prices.update(all_prices)
-        except Exception as e:
-            print("Swapg p2 error: " + str(e))
-        time.sleep(0.35)
+        time.sleep(0.5)
+    def getLatestPrices(self):
+        self.lock.acquire()
+        prices_copy = copy.deepcopy(self.prices)
         self.lock.release()
-
-        return all_prices
+        return prices_copy
     def buyItemAtBestPrice(self, item):
         pass
     def sellItemAtBestPrice(self, item):

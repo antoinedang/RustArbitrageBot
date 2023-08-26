@@ -1,0 +1,1343 @@
+======= OPPORTUNITIES ENDED PREMATURELY =======
+ARBITRAGE OPPORTUNITY ENDED -> Fish Gloves -> buy on DMarket for $1.89, sell on SwapGG for $2.01
+Profit: $0.11999999999999988 USD
+ROI: 0.06349206349206343%
+Duration: 1377.451159477234s
+
+Running average ROI: 6.3492063492063435%
+Running average profit per opportunity: $0.11999999999999988 USD
+Running average opportunity duration: 1377.451159477234s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 1
+Avg. new opportunities per hour: 0.2974563578921861
+Estimated cumulative profit (assuming no failures, limitless funds): $0.11999999999999988 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $0.0356947629470623 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Urban Camo MP5 -> buy on DMarket for $4.38, sell on SwapGG for $8.17
+Profit: $3.79 USD
+ROI: 0.865296803652968%
+Duration: 1376.6237800121307s
+
+Running average ROI: 46.43944335725158%
+Running average profit per opportunity: $1.955 USD
+Running average opportunity duration: 1377.0374697446823s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 2
+Avg. new opportunities per hour: 0.5949127157843722
+Estimated cumulative profit (assuming no failures, limitless funds): $3.91 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $1.1630543593584477 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Candy Hunter AR -> buy on DMarket for $1.56, sell on SwapGG for $1.65
+Profit: $0.08999999999999986 USD
+ROI: 0.0576923076923076%
+Duration: 1376.2166171073914s
+
+Running average ROI: 32.8827058279113%
+Running average profit per opportunity: $1.3333333333333333 USD
+Running average opportunity duration: 1376.7638521989186s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 3
+Avg. new opportunities per hour: 0.8923690736765584
+Estimated cumulative profit (assuming no failures, limitless funds): $4.0 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $1.1898254315687444 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Naughty Gingerbread Facemask -> buy on DMarket for $1.63, sell on SwapGG for $1.71
+Profit: $0.08000000000000007 USD
+ROI: 0.049079754601227044%
+Duration: 1375.5748777389526s
+
+Running average ROI: 25.88902323596415%
+Running average profit per opportunity: $1.02 USD
+Running average opportunity duration: 1376.4666085839272s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 4
+Avg. new opportunities per hour: 1.1898254315687444
+Estimated cumulative profit (assuming no failures, limitless funds): $4.08 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $1.2136219402001194 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Lost Treasure Rock -> buy on DMarket for $1.13, sell on SwapGG for $1.16
+Profit: $0.030000000000000027 USD
+ROI: 0.02654867256637171%
+Duration: 1373.2060339450836s
+
+Running average ROI: 21.242192040098754%
+Running average profit per opportunity: $0.8220000000000001 USD
+Running average opportunity duration: 1375.8144936561584s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 5
+Avg. new opportunities per hour: 1.4872817894609307
+Estimated cumulative profit (assuming no failures, limitless funds): $4.11 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $1.2225456309368852 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Samurai Kozane Do -> buy on DMarket for $16.55, sell on SwapGG for $18.6
+Profit: $2.0500000000000007 USD
+ROI: 0.12386706948640487%
+Duration: 1373.0057694911957s
+
+Running average ROI: 19.766277858189042%
+Running average profit per opportunity: $1.0266666666666668 USD
+Running average opportunity duration: 1375.346372961998s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 6
+Avg. new opportunities per hour: 1.7847381473531168
+Estimated cumulative profit (assuming no failures, limitless funds): $6.160000000000001 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $1.8323311646158669 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Shattered Mirror Kilt -> buy on DMarket for $1.5, sell on SwapGG for $1.52
+Profit: $0.020000000000000018 USD
+ROI: 0.013333333333333345%
+Duration: 1372.4267194271088s
+
+Running average ROI: 17.13300006892394%
+Running average profit per opportunity: $0.8828571428571431 USD
+Running average opportunity duration: 1374.929279599871s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 7
+Avg. new opportunities per hour: 2.082194505245303
+Estimated cumulative profit (assuming no failures, limitless funds): $6.1800000000000015 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $1.8382802917737107 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Tempered SAR -> buy on DMarket for $5.6, sell on SwapGG for $6.8
+Profit: $1.2000000000000002 USD
+ROI: 0.21428571428571433%
+Duration: 1370.818504333496s
+
+Running average ROI: 17.66994648887988%
+Running average profit per opportunity: $0.9225000000000002 USD
+Running average opportunity duration: 1374.415432691574s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 8
+Avg. new opportunities per hour: 2.379650863137489
+Estimated cumulative profit (assuming no failures, limitless funds): $7.380000000000002 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $2.195227921244334 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Banger SAR -> buy on DMarket for $2.95, sell on SwapGG for $3.05
+Profit: $0.09999999999999964 USD
+ROI: 0.03389830508474564%
+Duration: 1369.6998374462128s
+
+Running average ROI: 16.083266935501513%
+Running average profit per opportunity: $0.8311111111111112 USD
+Running average opportunity duration: 1373.8914776643117s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 9
+Avg. new opportunities per hour: 2.6771072210296754
+Estimated cumulative profit (assuming no failures, limitless funds): $7.480000000000001 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $2.2249735570335525 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Hazard Cover Pants -> buy on DMarket for $1.88, sell on SwapGG for $3.14
+Profit: $1.2600000000000002 USD
+ROI: 0.6702127659574469%
+Duration: 1369.420016527176s
+
+Running average ROI: 21.17706790152583%
+Running average profit per opportunity: $0.8740000000000002 USD
+Running average opportunity duration: 1373.4443315505982s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 10
+Avg. new opportunities per hour: 2.9745635789218614
+Estimated cumulative profit (assuming no failures, limitless funds): $8.740000000000002 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $2.599768567977707 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Ghostly Flame Garage Door -> buy on DMarket for $2.31, sell on SwapGG for $2.65
+Profit: $0.33999999999999986 USD
+ROI: 0.14718614718614711%
+Duration: 1368.8589751720428s
+
+Running average ROI: 20.589935793988456%
+Running average profit per opportunity: $0.8254545454545457 USD
+Running average opportunity duration: 1373.0274809707296s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 11
+Avg. new opportunities per hour: 3.2720199368140475
+Estimated cumulative profit (assuming no failures, limitless funds): $9.080000000000002 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $2.7009037296610505 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> HellBunker Door -> buy on DMarket for $1.8, sell on SwapGG for $2.13
+Profit: $0.32999999999999985 USD
+ROI: 0.18333333333333324%
+Duration: 1368.5025038719177s
+
+Running average ROI: 20.40188558893386%
+Running average profit per opportunity: $0.7841666666666668 USD
+Running average opportunity duration: 1372.6503995458286s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 12
+Avg. new opportunities per hour: 3.5694762947062335
+Estimated cumulative profit (assuming no failures, limitless funds): $9.410000000000002 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $2.799064327765472 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Copper Facemask -> buy on DMarket for $1.96, sell on SwapGG for $2.03
+Profit: $0.06999999999999984 USD
+ROI: 0.035714285714285636%
+Duration: 1368.0035552978516s
+
+Running average ROI: 19.107235049125762%
+Running average profit per opportunity: $0.7292307692307693 USD
+Running average opportunity duration: 1372.2929499882919s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 13
+Avg. new opportunities per hour: 3.8669326525984196
+Estimated cumulative profit (assuming no failures, limitless funds): $9.480000000000002 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $2.819886272817925 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Pitstop Bag -> buy on DMarket for $0.99, sell on SwapGG for $1.04
+Profit: $0.050000000000000044 USD
+ROI: 0.05050505050505055%
+Duration: 1366.1384587287903s
+
+Running average ROI: 18.10318290636714%
+Running average profit per opportunity: $0.6807142857142859 USD
+Running average opportunity duration: 1371.853343469756s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 14
+Avg. new opportunities per hour: 4.164389010490606
+Estimated cumulative profit (assuming no failures, limitless funds): $9.530000000000003 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $2.8347590907125344 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Keep Out Armored Door -> buy on DMarket for $1.57, sell on SwapGG for $1.58
+Profit: $0.010000000000000009 USD
+ROI: 0.006369426751592362%
+Duration: 1362.1682422161102s
+
+Running average ROI: 16.93876689095328%
+Running average profit per opportunity: $0.6360000000000002 USD
+Running average opportunity duration: 1371.2076700528462s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 15
+Avg. new opportunities per hour: 4.461845368382792
+Estimated cumulative profit (assuming no failures, limitless funds): $9.540000000000003 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $2.837733654291456 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Brony Hoodie -> buy on DMarket for $5.3, sell on SwapGG for $9.3
+Profit: $4.000000000000001 USD
+ROI: 0.7547169811320756%
+Duration: 1360.568114042282s
+
+Running average ROI: 20.597075092344173%
+Running average profit per opportunity: $0.8462500000000002 USD
+Running average opportunity duration: 1370.542697802186s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 16
+Avg. new opportunities per hour: 4.759301726274978
+Estimated cumulative profit (assuming no failures, limitless funds): $13.540000000000003 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.027559085860201 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Doodle Boots -> buy on DMarket for $1.45, sell on SwapGG for $1.65
+Profit: $0.19999999999999996 USD
+ROI: 0.1379310344827586%
+Duration: 1359.741775751114s
+
+Running average ROI: 20.19684146622251%
+Running average profit per opportunity: $0.8082352941176472 USD
+Running average opportunity duration: 1369.9073494462407s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 17
+Avg. new opportunities per hour: 5.056758084167164
+Estimated cumulative profit (assuming no failures, limitless funds): $13.740000000000002 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.087050357438638 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Fairy Tale Box -> buy on DMarket for $1.44, sell on SwapGG for $1.49
+Profit: $0.050000000000000044 USD
+ROI: 0.03472222222222225%
+Duration: 1358.6371665000916s
+
+Running average ROI: 19.267695952666937%
+Running average profit per opportunity: $0.7661111111111113 USD
+Running average opportunity duration: 1369.2812281714546s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 18
+Avg. new opportunities per hour: 5.354214442059351
+Estimated cumulative profit (assuming no failures, limitless funds): $13.790000000000003 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.101923175333248 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Snowman -> buy on DMarket for $0.02, sell on SwapGG for $1.43
+Profit: $1.41 USD
+ROI: 70.5%
+Duration: 1357.5467495918274s
+
+Running average ROI: 389.30623827094763%
+Running average profit per opportunity: $0.8000000000000002 USD
+Running average opportunity duration: 1368.6636240356847s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 19
+Avg. new opportunities per hour: 5.651670799951536
+Estimated cumulative profit (assuming no failures, limitless funds): $15.200000000000003 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.52133663996123 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Cobalt Security AR -> buy on DMarket for $1.29, sell on SwapGG for $1.44
+Profit: $0.1499999999999999 USD
+ROI: 0.11627906976744179%
+Duration: 1356.2049560546875s
+
+Running average ROI: 370.4223217062375%
+Running average profit per opportunity: $0.7675000000000002 USD
+Running average opportunity duration: 1368.0406906366347s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 20
+Avg. new opportunities per hour: 5.949127157843723
+Estimated cumulative profit (assuming no failures, limitless funds): $15.350000000000003 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.565955093645059 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Azul L96 -> buy on DMarket for $1.0, sell on SwapGG for $1.03
+Profit: $0.030000000000000027 USD
+ROI: 0.030000000000000027%
+Duration: 1356.0658254623413s
+
+Running average ROI: 352.92602067260714%
+Running average profit per opportunity: $0.7323809523809525 USD
+Running average opportunity duration: 1367.4704589616686s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 21
+Avg. new opportunities per hour: 6.246583515735908
+Estimated cumulative profit (assuming no failures, limitless funds): $15.380000000000003 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.5748787843818235 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Glory Boots -> buy on DMarket for $1.39, sell on SwapGG for $2.06
+Profit: $0.6700000000000002 USD
+ROI: 0.4820143884892088%
+Duration: 1354.4708933830261s
+
+Running average ROI: 339.074903316985%
+Running average profit per opportunity: $0.7295454545454547 USD
+Running average opportunity duration: 1366.8795696171846s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 22
+Avg. new opportunities per hour: 6.544039873628095
+Estimated cumulative profit (assuming no failures, limitless funds): $16.050000000000004 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.774174544169589 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Rainbow Pony Helmet -> buy on DMarket for $1.59, sell on SwapGG for $1.6
+Profit: $0.010000000000000009 USD
+ROI: 0.0062893081761006345%
+Duration: 1354.2394211292267s
+
+Running average ROI: 324.35986103440354%
+Running average profit per opportunity: $0.6982608695652176 USD
+Running average opportunity duration: 1366.3299979437952s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 23
+Avg. new opportunities per hour: 6.841496231520281
+Estimated cumulative profit (assuming no failures, limitless funds): $16.060000000000006 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.777149107748511 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Elite Mp5 -> buy on DMarket for $5.25, sell on SwapGG for $9.29
+Profit: $4.039999999999999 USD
+ROI: 0.7695238095238094%
+Duration: 1352.0502455234528s
+
+Running average ROI: 314.05121603098587%
+Running average profit per opportunity: $0.8375000000000002 USD
+Running average opportunity duration: 1365.7350082596142s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 24
+Avg. new opportunities per hour: 7.138952589412467
+Estimated cumulative profit (assuming no failures, limitless funds): $20.100000000000005 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $5.978872793632942 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Rainbow Pony Metal Door -> buy on DMarket for $1.77, sell on SwapGG for $1.88
+Profit: $0.10999999999999988 USD
+ROI: 0.06214689265536716%
+Duration: 1351.8956882953644s
+
+Running average ROI: 301.7377549603679%
+Running average profit per opportunity: $0.8084000000000002 USD
+Running average opportunity duration: 1365.1814354610442s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 25
+Avg. new opportunities per hour: 7.4364089473046535
+Estimated cumulative profit (assuming no failures, limitless funds): $20.210000000000004 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $6.0115929930010825 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Polymer LR300 -> buy on DMarket for $10.13, sell on SwapGG for $13.06
+Profit: $2.9299999999999997 USD
+ROI: 0.2892398815399802%
+Duration: 1351.1650664806366s
+
+Running average ROI: 291.2449177755076%
+Running average profit per opportunity: $0.8900000000000001 USD
+Running average opportunity duration: 1364.6423443464132s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 26
+Avg. new opportunities per hour: 7.733865305196839
+Estimated cumulative profit (assuming no failures, limitless funds): $23.140000000000004 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $6.883140121625188 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Dragon Rage Kilt -> buy on DMarket for $1.61, sell on SwapGG for $1.7
+Profit: $0.08999999999999986 USD
+ROI: 0.055900621118012334%
+Duration: 1350.211874961853s
+
+Running average ROI: 280.6651083064814%
+Running average profit per opportunity: $0.8603703703703706 USD
+Running average opportunity duration: 1364.1078825173554s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 27
+Avg. new opportunities per hour: 8.031321663089026
+Estimated cumulative profit (assuming no failures, limitless funds): $23.230000000000004 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $6.909911193835485 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Dragon Rage Hoodie -> buy on DMarket for $6.75, sell on SwapGG for $6.8
+Profit: $0.04999999999999982 USD
+ROI: 0.007407407407407381%
+Duration: 1350.18359041214s
+
+Running average ROI: 270.66780946484783%
+Running average profit per opportunity: $0.8314285714285716 USD
+Running average opportunity duration: 1363.6105863707405s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 28
+Avg. new opportunities per hour: 8.328778020981211
+Estimated cumulative profit (assuming no failures, limitless funds): $23.280000000000005 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $6.924784011730094 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Uprising Hide Shoes -> buy on SwapGG for $11.46, sell on DMarket for $13.64
+Profit: $2.1799999999999997 USD
+ROI: 0.1902268760907504%
+Duration: 1349.1551687717438s
+
+Running average ROI: 261.9903914698212%
+Running average profit per opportunity: $0.8779310344827588 USD
+Running average opportunity duration: 1363.1121236949132s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 29
+Avg. new opportunities per hour: 8.626234378873399
+Estimated cumulative profit (assuming no failures, limitless funds): $25.460000000000004 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $7.57323887193506 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Fireflies Metal Door -> buy on DMarket for $3.28, sell on SwapGG for $3.49
+Profit: $0.2100000000000004 USD
+ROI: 0.06402439024390257%
+Duration: 1347.5604281425476s
+
+Running average ROI: 253.47079305497346%
+Running average profit per opportunity: $0.8556666666666668 USD
+Running average opportunity duration: 1362.5937338431677s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 30
+Avg. new opportunities per hour: 8.923690736765584
+Estimated cumulative profit (assuming no failures, limitless funds): $25.670000000000005 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $7.635704707092419 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Bombing Armored Door -> buy on DMarket for $1.09, sell on SwapGG for $1.22
+Profit: $0.1299999999999999 USD
+ROI: 0.11926605504587146%
+Duration: 1347.000825881958s
+
+Running average ROI: 245.6790450694771%
+Running average profit per opportunity: $0.8322580645161292 USD
+Running average opportunity duration: 1362.090736812161s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 31
+Avg. new opportunities per hour: 9.22114709465777
+Estimated cumulative profit (assuming no failures, limitless funds): $25.800000000000004 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $7.674374033618403 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Uprising Hide Poncho -> buy on DMarket for $10.95, sell on SwapGG for $13.69
+Profit: $2.74 USD
+ROI: 0.2502283105022831%
+Duration: 1346.1907494068146s
+
+Running average ROI: 238.7835383813756%
+Running average profit per opportunity: $0.8918750000000002 USD
+Running average opportunity duration: 1361.5938622057438s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 32
+Avg. new opportunities per hour: 9.518603452549955
+Estimated cumulative profit (assuming no failures, limitless funds): $28.540000000000006 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $8.489404454242994 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> House of Horror -> buy on DMarket for $1.04, sell on SwapGG for $1.08
+Profit: $0.040000000000000036 USD
+ROI: 0.03846153846153849%
+Duration: 1345.722430229187s
+
+Running average ROI: 231.66422369849005%
+Running average profit per opportunity: $0.8660606060606062 USD
+Running average opportunity duration: 1361.1129097216058s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 33
+Avg. new opportunities per hour: 9.816059810442143
+Estimated cumulative profit (assuming no failures, limitless funds): $28.580000000000005 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $8.501302708558681 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Armored Mason Door -> buy on DMarket for $3.02, sell on SwapGG for $4.37
+Profit: $1.35 USD
+ROI: 0.4470198675496689%
+Duration: 1344.5649454593658s
+
+Running average ROI: 226.16533437662173%
+Running average profit per opportunity: $0.880294117647059 USD
+Running average opportunity duration: 1360.6262048903634s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 34
+Avg. new opportunities per hour: 10.113516168334328
+Estimated cumulative profit (assuming no failures, limitless funds): $29.930000000000007 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $8.902868791713134 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> New Year Ox furnace -> buy on DMarket for $1.8, sell on SwapGG for $2.01
+Profit: $0.20999999999999974 USD
+ROI: 0.11666666666666652%
+Duration: 1342.0148663520813s
+
+Running average ROI: 220.03680101348016%
+Running average profit per opportunity: $0.8611428571428573 USD
+Running average opportunity duration: 1360.0944523606981s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 35
+Avg. new opportunities per hour: 10.410972526226514
+Estimated cumulative profit (assuming no failures, limitless funds): $30.140000000000008 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $8.965334626870492 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Fireflies Furnace -> buy on DMarket for $1.21, sell on SwapGG for $1.31
+Profit: $0.10000000000000009 USD
+ROI: 0.08264462809917363%
+Duration: 1341.7498371601105s
+
+Running average ROI: 214.1542360633812%
+Running average profit per opportunity: $0.8400000000000003 USD
+Running average opportunity duration: 1359.5848797162373s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 36
+Avg. new opportunities per hour: 10.708428884118701
+Estimated cumulative profit (assuming no failures, limitless funds): $30.24000000000001 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $8.99508026265971 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Frosty MP5 -> buy on DMarket for $0.78, sell on SwapGG for $1.28
+Profit: $0.5 USD
+ROI: 0.641025641025641%
+Duration: 1335.3039724826813s
+
+Running average ROI: 210.0987854698456%
+Running average profit per opportunity: $0.8308108108108111 USD
+Running average opportunity duration: 1358.9286389801953s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 37
+Avg. new opportunities per hour: 11.005885242010887
+Estimated cumulative profit (assuming no failures, limitless funds): $30.74000000000001 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $9.143808441605804 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> No Mercy Boots -> buy on DMarket for $1.28, sell on SwapGG for $5.2
+Profit: $3.92 USD
+ROI: 3.0625%
+Duration: 1335.2459824085236s
+
+Running average ROI: 212.62908058906018%
+Running average profit per opportunity: $0.912105263157895 USD
+Running average opportunity duration: 1358.3054111756776s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 38
+Avg. new opportunities per hour: 11.303341599903073
+Estimated cumulative profit (assuming no failures, limitless funds): $34.66000000000001 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $10.309837364543174 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Apocalypse Door -> buy on DMarket for $1.06, sell on SwapGG for $1.3
+Profit: $0.24 USD
+ROI: 0.22641509433962262%
+Duration: 1335.2013080120087s
+
+Running average ROI: 207.75760440559617%
+Running average profit per opportunity: $0.8948717948717952 USD
+Running average opportunity duration: 1357.712998274045s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 39
+Avg. new opportunities per hour: 11.600797957795258
+Estimated cumulative profit (assuming no failures, limitless funds): $34.90000000000001 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $10.381226890437299 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Optimist LR -> buy on DMarket for $0.84, sell on SwapGG for $1.05
+Profit: $0.21000000000000008 USD
+ROI: 0.2500000000000001%
+Duration: 1335.12544298172s
+
+Running average ROI: 203.18866429545625%
+Running average profit per opportunity: $0.8777500000000004 USD
+Running average opportunity duration: 1357.148309391737s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 40
+Avg. new opportunities per hour: 11.898254315687446
+Estimated cumulative profit (assuming no failures, limitless funds): $35.110000000000014 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $10.443692725594659 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Doodle LR -> buy on DMarket for $0.85, sell on SwapGG for $1.51
+Profit: $0.66 USD
+ROI: 0.7764705882352941%
+Duration: 1334.517285823822s
+
+Running average ROI: 200.1266739180922%
+Running average profit per opportunity: $0.8724390243902441 USD
+Running average opportunity duration: 1356.5963332071537s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 41
+Avg. new opportunities per hour: 12.195710673579631
+Estimated cumulative profit (assuming no failures, limitless funds): $35.77000000000001 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $10.6400139218035 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Muertos Locker -> buy on DMarket for $8.35, sell on SwapGG for $11.71
+Profit: $3.360000000000001 USD
+ROI: 0.40239520958083846%
+Duration: 1333.7216219902039s
+
+Running average ROI: 196.3198369428539%
+Running average profit per opportunity: $0.9316666666666669 USD
+Running average opportunity duration: 1356.0516972257979s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 42
+Avg. new opportunities per hour: 12.493167031471817
+Estimated cumulative profit (assuming no failures, limitless funds): $39.13000000000001 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $11.639467284321245 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Dragon Hoodie -> buy on DMarket for $0.86, sell on SwapGG for $1.2
+Profit: $0.33999999999999997 USD
+ROI: 0.3953488372093023%
+Duration: 1332.5402767658234s
+
+Running average ROI: 192.6736752400185%
+Running average profit per opportunity: $0.9179069767441863 USD
+Running average opportunity duration: 1355.5049200057986s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 43
+Avg. new opportunities per hour: 12.790623389364004
+Estimated cumulative profit (assuming no failures, limitless funds): $39.47000000000001 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $11.74060244600459 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Playmaker Kilt -> buy on DMarket for $0.62, sell on SwapGG for $1.89
+Profit: $1.27 USD
+ROI: 2.0483870967741935%
+Duration: 1331.3345744609833s
+
+Running average ROI: 192.95015329541394%
+Running average profit per opportunity: $0.9259090909090912 USD
+Running average opportunity duration: 1354.955593970689s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 44
+Avg. new opportunities per hour: 13.08807974725619
+Estimated cumulative profit (assuming no failures, limitless funds): $40.740000000000016 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $12.118372020527667 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Stump Furnace -> buy on SwapGG for $1.14, sell on DMarket for $3.74
+Profit: $2.6000000000000005 USD
+ROI: 2.280701754385966%
+Duration: 1330.8538434505463s
+
+Running average ROI: 193.73059823192912%
+Running average profit per opportunity: $0.9631111111111115 USD
+Running average opportunity duration: 1354.419999514686s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 45
+Avg. new opportunities per hour: 13.385536105148375
+Estimated cumulative profit (assuming no failures, limitless funds): $43.34000000000002 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $12.891758551047351 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Bone Collector Door -> buy on DMarket for $0.63, sell on SwapGG for $0.64
+Profit: $0.010000000000000009 USD
+ROI: 0.015873015873015886%
+Duration: 1330.6683650016785s
+
+Running average ROI: 189.55357004400244%
+Running average profit per opportunity: $0.9423913043478265 USD
+Running average opportunity duration: 1353.9036596339683s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 46
+Avg. new opportunities per hour: 13.682992463040563
+Estimated cumulative profit (assuming no failures, limitless funds): $43.350000000000016 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $12.894733114626273 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Tribesman Poncho -> buy on DMarket for $7.85, sell on SwapGG for $13.38
+Profit: $5.530000000000001 USD
+ROI: 0.7044585987261148%
+Duration: 1329.1551659107208s
+
+Running average ROI: 187.01936344461114%
+Running average profit per opportunity: $1.0400000000000003 USD
+Running average opportunity duration: 1353.377095937729s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 47
+Avg. new opportunities per hour: 13.980448820932748
+Estimated cumulative profit (assuming no failures, limitless funds): $48.88000000000002 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $14.539666773770064 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Road Romeo Pants -> buy on DMarket for $0.74, sell on SwapGG for $0.8
+Profit: $0.06000000000000005 USD
+ROI: 0.08108108108108115%
+Duration: 1328.9394114017487s
+
+Running average ROI: 183.29204562510066%
+Running average profit per opportunity: $1.0195833333333335 USD
+Running average opportunity duration: 1352.867977509896s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 48
+Avg. new opportunities per hour: 14.277905178824934
+Estimated cumulative profit (assuming no failures, limitless funds): $48.94000000000002 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $14.557514155243593 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Cuda87 Hoodie -> buy on DMarket for $0.36, sell on SwapGG for $1.3
+Profit: $0.9400000000000001 USD
+ROI: 2.611111111111111%
+Duration: 1328.6596677303314s
+
+Running average ROI: 184.8801898186927%
+Running average profit per opportunity: $1.0179591836734696 USD
+Running average opportunity duration: 1352.3739303715374s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 49
+Avg. new opportunities per hour: 14.57536153671712
+Estimated cumulative profit (assuming no failures, limitless funds): $49.88000000000002 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $14.83712313166225 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Dead Ringer LR300 -> buy on DMarket for $0.92, sell on SwapGG for $1.17
+Profit: $0.2499999999999999 USD
+ROI: 0.2717391304347825%
+Duration: 1327.6811485290527s
+
+Running average ROI: 181.72606428318844%
+Running average profit per opportunity: $1.0026000000000002 USD
+Running average opportunity duration: 1351.8800747346877s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 50
+Avg. new opportunities per hour: 14.872817894609307
+Estimated cumulative profit (assuming no failures, limitless funds): $50.13000000000002 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $14.911487221135296 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Artisan Tree Door -> buy on DMarket for $0.47, sell on SwapGG for $5.18
+Profit: $4.71 USD
+ROI: 10.02127659574468%
+Duration: 1327.293550491333s
+
+Running average ROI: 197.81237007321351%
+Running average profit per opportunity: $1.075294117647059 USD
+Running average opportunity duration: 1351.3979860240338s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 51
+Avg. new opportunities per hour: 15.170274252501493
+Estimated cumulative profit (assuming no failures, limitless funds): $54.84000000000002 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $16.312506666807494 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Rorschach Skull -> buy on DMarket for $0.63, sell on SwapGG for $1.19
+Profit: $0.5599999999999999 USD
+ROI: 0.8888888888888888%
+Duration: 1326.0903902053833s
+
+Running average ROI: 195.71768774274574%
+Running average profit per opportunity: $1.0653846153846156 USD
+Running average opportunity duration: 1350.9113014890597s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 52
+Avg. new opportunities per hour: 15.467730610393678
+Estimated cumulative profit (assuming no failures, limitless funds): $55.40000000000002 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $16.479082227227117 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Black Bandana -> buy on DMarket for $0.11, sell on SwapGG for $0.15
+Profit: $0.039999999999999994 USD
+ROI: 0.3636363636363636%
+Duration: 1324.0678403377533s
+
+Running average ROI: 192.71100752804554%
+Running average profit per opportunity: $1.046037735849057 USD
+Running average opportunity duration: 1350.4048210899784s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 53
+Avg. new opportunities per hour: 15.765186968285866
+Estimated cumulative profit (assuming no failures, limitless funds): $55.44000000000002 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $16.490980481542802 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Snow Camo Pants -> buy on DMarket for $0.13, sell on SwapGG for $0.18
+Profit: $0.04999999999999999 USD
+ROI: 0.3846153846153845%
+Duration: 1323.0766355991364s
+
+Running average ROI: 189.85453587866579%
+Running average profit per opportunity: $1.0275925925925928 USD
+Running average opportunity duration: 1349.8987435808888s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 54
+Avg. new opportunities per hour: 16.06264332617805
+Estimated cumulative profit (assuming no failures, limitless funds): $55.490000000000016 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $16.505853299437412 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Hellraiser Python -> buy on DMarket for $3.34, sell on SwapGG for $4.46
+Profit: $1.12 USD
+ROI: 0.3353293413173653%
+Duration: 1322.640804052353s
+
+Running average ROI: 187.01232493781254%
+Running average profit per opportunity: $1.0292727272727276 USD
+Running average opportunity duration: 1349.40314468037s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 55
+Avg. new opportunities per hour: 16.36009968407024
+Estimated cumulative profit (assuming no failures, limitless funds): $56.610000000000014 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $16.839004420276662 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Small Box from Hell -> buy on DMarket for $1.93, sell on SwapGG for $1.99
+Profit: $0.06000000000000005 USD
+ROI: 0.03108808290155443%
+Duration: 1322.2978465557098s
+
+Running average ROI: 183.72833356910436%
+Running average profit per opportunity: $1.011964285714286 USD
+Running average opportunity duration: 1348.9191214995724s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 56
+Avg. new opportunities per hour: 16.657556041962422
+Estimated cumulative profit (assuming no failures, limitless funds): $56.670000000000016 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $16.856851801750192 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Flyboy SMG -> buy on DMarket for $0.93, sell on SwapGG for $0.95
+Profit: $0.019999999999999907 USD
+ROI: 0.02150537634408592%
+Duration: 1320.4570372104645s
+
+Running average ROI: 180.542758201829%
+Running average profit per opportunity: $0.9945614035087724 USD
+Running average opportunity duration: 1348.4197866874829s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 57
+Avg. new opportunities per hour: 16.95501239985461
+Estimated cumulative profit (assuming no failures, limitless funds): $56.69000000000002 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $16.862800928908037 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Necro Machine -> buy on DMarket for $0.83, sell on SwapGG for $0.93
+Profit: $0.10000000000000009 USD
+ROI: 0.12048192771084348%
+Duration: 1316.7583889961243s
+
+Running average ROI: 177.6376794875058%
+Running average profit per opportunity: $0.9791379310344832 USD
+Running average opportunity duration: 1347.8739005203904s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 58
+Avg. new opportunities per hour: 17.252468757746797
+Estimated cumulative profit (assuming no failures, limitless funds): $56.79000000000002 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $16.89254656469726 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Armored Scrapper Door -> buy on DMarket for $1.11, sell on SwapGG for $1.27
+Profit: $0.15999999999999992 USD
+ROI: 0.14414414414414406%
+Duration: 1316.3719923496246s
+
+Running average ROI: 174.87118346931783%
+Running average profit per opportunity: $0.965254237288136 USD
+Running average opportunity duration: 1347.3399698734283s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 59
+Avg. new opportunities per hour: 17.54992511563898
+Estimated cumulative profit (assuming no failures, limitless funds): $56.95000000000002 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $16.940139581960004 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Skin Balaclava -> buy on DMarket for $0.67, sell on SwapGG for $1.53
+Profit: $0.86 USD
+ROI: 1.2835820895522387%
+Duration: 1313.9943811893463s
+
+Running average ROI: 174.09596722741625%
+Running average profit per opportunity: $0.9635000000000004 USD
+Running average opportunity duration: 1346.784210062027s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 60
+Avg. new opportunities per hour: 17.84738147353117
+Estimated cumulative profit (assuming no failures, limitless funds): $57.81000000000002 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $17.195952049747284 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Glister Hoodie -> buy on DMarket for $0.48, sell on SwapGG for $0.86
+Profit: $0.38 USD
+ROI: 0.7916666666666667%
+Duration: 1313.96599984169s
+
+Running average ROI: 172.53974918543676%
+Running average profit per opportunity: $0.9539344262295086 USD
+Running average opportunity duration: 1346.2462066157918s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 61
+Avg. new opportunities per hour: 18.144837831423352
+Estimated cumulative profit (assuming no failures, limitless funds): $58.19000000000002 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $17.308985465746314 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Black Hoodie -> buy on DMarket for $0.27, sell on SwapGG for $0.37
+Profit: $0.09999999999999998 USD
+ROI: 0.37037037037037024%
+Duration: 1311.3903996944427s
+
+Running average ROI: 170.35422157013997%
+Running average profit per opportunity: $0.9401612903225811 USD
+Running average opportunity duration: 1345.6840161815767s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 62
+Avg. new opportunities per hour: 18.44229418931554
+Estimated cumulative profit (assuming no failures, limitless funds): $58.29000000000002 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $17.338731101535537 USD / hour
+
+===============================================
+======= OPPORTUNITIES ENDED PREMATURELY =======
+===============================================
+======= OPPORTUNITIES ENDED PREMATURELY =======
+ARBITRAGE OPPORTUNITY ENDED -> Copper Facemask -> buy on DMarket for $1.96, sell on SwapGG for $2.03
+Profit: $0.06999999999999984 USD
+ROI: 0.035714285714285636%
+Duration: 141.6530134677887s
+
+Running average ROI: 3.5714285714285636%
+Running average profit per opportunity: $0.06999999999999984 USD
+Running average opportunity duration: 141.6530134677887s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 1
+Avg. new opportunities per hour: 0.29331915468399883
+Estimated cumulative profit (assuming no failures, limitless funds): $0.06999999999999984 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $0.020532340827879872 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Banger SAR -> buy on DMarket for $2.95, sell on SwapGG for $3.05
+Profit: $0.09999999999999964 USD
+ROI: 0.03389830508474564%
+Duration: 138.02769374847412s
+
+Running average ROI: 3.480629539951564%
+Running average profit per opportunity: $0.08499999999999974 USD
+Running average opportunity duration: 139.8403536081314s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 2
+Avg. new opportunities per hour: 0.5866383093679977
+Estimated cumulative profit (assuming no failures, limitless funds): $0.16999999999999948 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $0.04986425629627965 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Hazard Cover Pants -> buy on DMarket for $1.88, sell on SwapGG for $3.14
+Profit: $1.2600000000000002 USD
+ROI: 0.6702127659574469%
+Duration: 137.47504997253418s
+
+Running average ROI: 24.66084522521594%
+Running average profit per opportunity: $0.47666666666666657 USD
+Running average opportunity duration: 139.05191906293234s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 3
+Avg. new opportunities per hour: 0.8799574640519965
+Estimated cumulative profit (assuming no failures, limitless funds): $1.4299999999999997 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $0.4194463911981183 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Ghostly Flame Garage Door -> buy on DMarket for $2.56, sell on SwapGG for $2.65
+Profit: $0.08999999999999986 USD
+ROI: 0.035156249999999944%
+Duration: 135.549058675766s
+
+Running average ROI: 19.374540168911953%
+Running average profit per opportunity: $0.3799999999999999 USD
+Running average opportunity duration: 138.17620396614075s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 4
+Avg. new opportunities per hour: 1.1732766187359953
+Estimated cumulative profit (assuming no failures, limitless funds): $1.5199999999999996 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $0.44584511511967806 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> HellBunker Door -> buy on DMarket for $1.8, sell on SwapGG for $2.13
+Profit: $0.32999999999999985 USD
+ROI: 0.18333333333333324%
+Duration: 134.05521035194397s
+
+Running average ROI: 19.166298801796227%
+Running average profit per opportunity: $0.3699999999999999 USD
+Running average opportunity duration: 137.3520052433014s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 5
+Avg. new opportunities per hour: 1.4665957734199941
+Estimated cumulative profit (assuming no failures, limitless funds): $1.8499999999999994 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $0.5426404361653977 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Tempered SAR -> buy on DMarket for $5.6, sell on SwapGG for $6.8
+Profit: $1.2000000000000002 USD
+ROI: 0.21428571428571433%
+Duration: 132.94143176078796s
+
+Running average ROI: 19.5433442395921%
+Running average profit per opportunity: $0.5083333333333333 USD
+Running average opportunity duration: 136.61690966288248s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 6
+Avg. new opportunities per hour: 1.759914928103993
+Estimated cumulative profit (assuming no failures, limitless funds): $3.05 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $0.8946234217861965 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Shattered Mirror Kilt -> buy on DMarket for $1.5, sell on SwapGG for $1.52
+Profit: $0.020000000000000018 USD
+ROI: 0.013333333333333345%
+Duration: 127.54575395584106s
+
+Running average ROI: 16.94191411012656%
+Running average profit per opportunity: $0.43857142857142856 USD
+Running average opportunity duration: 135.32103027616228s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 7
+Avg. new opportunities per hour: 2.053234082787992
+Estimated cumulative profit (assuming no failures, limitless funds): $3.07 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $0.9004898048798764 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Lost Treasure Rock -> buy on DMarket for $1.13, sell on SwapGG for $1.16
+Profit: $0.030000000000000027 USD
+ROI: 0.02654867256637171%
+Duration: 119.96010828018188s
+
+Running average ROI: 15.156033253440388%
+Running average profit per opportunity: $0.38749999999999996 USD
+Running average opportunity duration: 133.40091502666473s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 8
+Avg. new opportunities per hour: 2.3465532374719906
+Estimated cumulative profit (assuming no failures, limitless funds): $3.0999999999999996 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $0.9092893795203962 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Samurai Kozane Do -> buy on DMarket for $16.55, sell on SwapGG for $18.6
+Profit: $2.0500000000000007 USD
+ROI: 0.12386706948640487%
+Duration: 119.3026032447815s
+
+Running average ROI: 14.848330330684842%
+Running average profit per opportunity: $0.5722222222222223 USD
+Running average opportunity duration: 131.83443593978882s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 9
+Avg. new opportunities per hour: 2.6398723921559895
+Estimated cumulative profit (assuming no failures, limitless funds): $5.15 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $1.510593646622594 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Candy Hunter AR -> buy on DMarket for $1.56, sell on SwapGG for $1.65
+Profit: $0.08999999999999986 USD
+ROI: 0.0576923076923076%
+Duration: 113.20117616653442s
+
+Running average ROI: 13.940420374539434%
+Running average profit per opportunity: $0.524 USD
+Running average opportunity duration: 129.97110996246337s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 10
+Avg. new opportunities per hour: 2.9331915468399883
+Estimated cumulative profit (assuming no failures, limitless funds): $5.24 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $1.536992370544154 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Naughty Gingerbread Facemask -> buy on DMarket for $1.63, sell on SwapGG for $1.71
+Profit: $0.08000000000000007 USD
+ROI: 0.049079754601227044%
+Duration: 110.50502061843872s
+
+Running average ROI: 13.119289018683366%
+Running average profit per opportunity: $0.48363636363636364 USD
+Running average opportunity duration: 128.20146547664297s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 11
+Avg. new opportunities per hour: 3.226510701523987
+Estimated cumulative profit (assuming no failures, limitless funds): $5.32 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $1.5604579029188739 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Fish Gloves -> buy on DMarket for $1.89, sell on SwapGG for $2.01
+Profit: $0.11999999999999988 USD
+ROI: 0.06349206349206343%
+Duration: 107.61070132255554s
+
+Running average ROI: 12.555115462893616%
+Running average profit per opportunity: $0.45333333333333337 USD
+Running average opportunity duration: 126.48556846380234s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 12
+Avg. new opportunities per hour: 3.519829856207986
+Estimated cumulative profit (assuming no failures, limitless funds): $5.44 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $1.5956562014809537 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Urban Camo MP5 -> buy on DMarket for $4.38, sell on SwapGG for $8.17
+Profit: $3.79 USD
+ROI: 0.865296803652968%
+Duration: 105.85025095939636s
+
+Running average ROI: 18.245466609232324%
+Running average profit per opportunity: $0.7100000000000001 USD
+Running average opportunity duration: 124.8982363480788s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 13
+Avg. new opportunities per hour: 3.8131490108919848
+Estimated cumulative profit (assuming no failures, limitless funds): $9.23 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $2.7073357977333092 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Snowman -> buy on DMarket for $0.02, sell on SwapGG for $1.43
+Profit: $1.41 USD
+ROI: 70.5%
+Duration: 103.24892282485962s
+
+Running average ROI: 520.5136475657157%
+Running average profit per opportunity: $0.76 USD
+Running average opportunity duration: 123.351856810706s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 14
+Avg. new opportunities per hour: 4.106468165575984
+Estimated cumulative profit (assuming no failures, limitless funds): $10.64 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $3.1209158058377477 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Fairy Tale Box -> buy on DMarket for $1.44, sell on SwapGG for $1.49
+Profit: $0.050000000000000044 USD
+ROI: 0.03472222222222225%
+Duration: 97.79434704780579s
+
+Running average ROI: 486.0442192094828%
+Running average profit per opportunity: $0.7126666666666668 USD
+Running average opportunity duration: 121.64802282651266s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 15
+Avg. new opportunities per hour: 4.399787320259983
+Estimated cumulative profit (assuming no failures, limitless funds): $10.690000000000001 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $3.135581763571948 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Brony Hoodie -> buy on DMarket for $5.3, sell on SwapGG for $9.3
+Profit: $4.000000000000001 USD
+ROI: 0.7547169811320756%
+Duration: 95.49655032157898s
+
+Running average ROI: 460.3834366409656%
+Running average profit per opportunity: $0.9181250000000001 USD
+Running average opportunity duration: 120.0135557949543s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 16
+Avg. new opportunities per hour: 4.693106474943981
+Estimated cumulative profit (assuming no failures, limitless funds): $14.690000000000001 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.308858382307943 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Doodle Boots -> buy on DMarket for $1.45, sell on SwapGG for $1.65
+Profit: $0.19999999999999996 USD
+ROI: 0.1379310344827586%
+Duration: 92.02722024917603s
+
+Running average ROI: 434.1134170413957%
+Running average profit per opportunity: $0.8758823529411766 USD
+Running average opportunity duration: 118.3673007628497s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 17
+Avg. new opportunities per hour: 4.9864256296279805
+Estimated cumulative profit (assuming no failures, limitless funds): $14.89 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.367522213244743 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Keep Out Armored Door -> buy on DMarket for $1.57, sell on SwapGG for $1.58
+Profit: $0.010000000000000009 USD
+ROI: 0.006369426751592362%
+Duration: 85.3795416355133s
+
+Running average ROI: 410.0313906877158%
+Running average profit per opportunity: $0.8277777777777778 USD
+Running average opportunity duration: 116.53464747799768s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 18
+Avg. new opportunities per hour: 5.279744784311979
+Estimated cumulative profit (assuming no failures, limitless funds): $14.9 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.370455404791582 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Pitstop Bag -> buy on DMarket for $0.99, sell on SwapGG for $1.04
+Profit: $0.050000000000000044 USD
+ROI: 0.05050505050505055%
+Duration: 70.71541690826416s
+
+Running average ROI: 388.7166072331258%
+Running average profit per opportunity: $0.7868421052631579 USD
+Running average opportunity duration: 114.12310902695907s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 19
+Avg. new opportunities per hour: 5.573063938995978
+Estimated cumulative profit (assuming no failures, limitless funds): $14.950000000000001 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.385121362525783 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Fireflies Metal Door -> buy on DMarket for $3.28, sell on SwapGG for $3.49
+Profit: $0.2100000000000004 USD
+ROI: 0.06402439024390257%
+Duration: 68.7914867401123s
+
+Running average ROI: 369.60089882268903%
+Running average profit per opportunity: $0.758 USD
+Running average opportunity duration: 111.85652791261673s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 20
+Avg. new opportunities per hour: 5.866383093679977
+Estimated cumulative profit (assuming no failures, limitless funds): $15.160000000000002 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.446718385009423 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Bombing Armored Door -> buy on DMarket for $1.09, sell on SwapGG for $1.22
+Profit: $0.1299999999999999 USD
+ROI: 0.11926605504587146%
+Duration: 66.71656060218811s
+
+Running average ROI: 352.5687896170651%
+Running average profit per opportunity: $0.728095238095238 USD
+Running average opportunity duration: 109.70700565973918s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 21
+Avg. new opportunities per hour: 6.159702248363976
+Estimated cumulative profit (assuming no failures, limitless funds): $15.290000000000003 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.484849875118343 USD / hour
+
+===============================================
+======= OPPORTUNITIES ENDED PREMATURELY =======
+ARBITRAGE OPPORTUNITY ENDED -> Rainbow Pony Metal Door -> buy on DMarket for $1.77, sell on SwapGG for $1.88
+Profit: $0.10999999999999988 USD
+ROI: 0.06214689265536716%
+Duration: 17.827389240264893s
+
+Running average ROI: 6.214689265536716%
+Running average profit per opportunity: $0.10999999999999988 USD
+Running average opportunity duration: 17.827389240264893s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 1
+Avg. new opportunities per hour: 0.29028637744301916
+Estimated cumulative profit (assuming no failures, limitless funds): $0.10999999999999988 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $0.03193150151873207 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Elite Mp5 -> buy on DMarket for $5.25, sell on SwapGG for $9.29
+Profit: $4.039999999999999 USD
+ROI: 0.7695238095238094%
+Duration: 17.60768413543701s
+
+Running average ROI: 41.58353510895883%
+Running average profit per opportunity: $2.0749999999999993 USD
+Running average opportunity duration: 17.717536687850952s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 2
+Avg. new opportunities per hour: 0.5805727548860383
+Estimated cumulative profit (assuming no failures, limitless funds): $4.149999999999999 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $1.2046884663885291 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Cobalt Security AR -> buy on DMarket for $1.29, sell on SwapGG for $1.44
+Profit: $0.1499999999999999 USD
+ROI: 0.11627906976744179%
+Duration: 15.645581483840942s
+
+Running average ROI: 31.598325731553945%
+Running average profit per opportunity: $1.433333333333333 USD
+Running average opportunity duration: 17.02688495318095s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 3
+Avg. new opportunities per hour: 0.8708591323290574
+Estimated cumulative profit (assuming no failures, limitless funds): $4.299999999999999 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $1.248231423004982 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Azul L96 -> buy on DMarket for $1.0, sell on SwapGG for $1.03
+Profit: $0.030000000000000027 USD
+ROI: 0.030000000000000027%
+Duration: 15.180484533309937s
+
+Running average ROI: 24.44874429866546%
+Running average profit per opportunity: $1.0824999999999998 USD
+Running average opportunity duration: 16.565284848213196s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 4
+Avg. new opportunities per hour: 1.1611455097720766
+Estimated cumulative profit (assuming no failures, limitless funds): $4.329999999999999 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $1.2569400143282725 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Rainbow Pony Helmet -> buy on DMarket for $1.59, sell on SwapGG for $1.6
+Profit: $0.010000000000000009 USD
+ROI: 0.0062893081761006345%
+Duration: 10.616176843643188s
+
+Running average ROI: 19.68478160245438%
+Running average profit per opportunity: $0.8679999999999998 USD
+Running average opportunity duration: 15.375463247299194s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 5
+Avg. new opportunities per hour: 1.4514318872150958
+Estimated cumulative profit (assuming no failures, limitless funds): $4.339999999999999 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $1.259842878102703 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Glory Boots -> buy on DMarket for $1.39, sell on SwapGG for $2.06
+Profit: $0.6700000000000002 USD
+ROI: 0.4820143884892088%
+Duration: 10.430500745773315s
+
+Running average ROI: 24.437557810198797%
+Running average profit per opportunity: $0.8349999999999999 USD
+Running average opportunity duration: 14.551302830378214s
+Max. opportunity duration: 999999999s
+Min. opportunity duration: 0s
+Total opportunities detected: 6
+Avg. new opportunities per hour: 1.7417182646581149
+Estimated cumulative profit (assuming no failures, limitless funds): $5.009999999999999 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $1.4543347509895257 USD / hour
+
+===============================================
