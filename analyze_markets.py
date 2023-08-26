@@ -18,10 +18,10 @@ def loadFromFile(filename):
 def scan_for_opportunities():
     global current_opportunities
     while scanning_active:
-        for item in swapgg.getLatestPrices().keys():
+        dmarket_prices = dmarket.getLatestPrices()
+        swapgg_prices = swapgg.getLatestPrices()
+        for item in swapgg_prices.keys():
             if not scanning_active: return
-            dmarket_prices = dmarket.getLatestPrices()
-            swapgg_prices = swapgg.getLatestPrices()
             try:
                 best_buy_price = min(dmarket_prices[item].get("buy",9999999), swapgg_prices[item].get("buy",9999999))
                 best_sell_price = max(dmarket_prices[item].get("sell",0), swapgg_prices[item].get("sell",0))
@@ -145,13 +145,13 @@ def check_current_opportunities():
         try: items = [str(k) for k in current_opportunities.keys()]
         except Exception as e: print("check_current_opportunities p1 error: {}".format(e))
         current_opportunities_lock.release()
+        dmarket_prices = dmarket.getLatestPrices()
+        swapgg_prices = swapgg.getLatestPrices()
         for item in items:
             if not checking_active: return
-            dmarket_price = dmarket.getLatestPrices()[item]
-            swapgg_price = swapgg.getLatestPrices()[item]
 
-            best_buy_price = min(dmarket_price.get("buy",9999999), swapgg_price.get("buy",9999999))
-            best_sell_price = max(dmarket_price.get("sell",0), swapgg_price.get("sell",0))
+            best_buy_price = min(dmarket_prices[item].get("buy",9999999), swapgg_prices[item].get("buy",9999999))
+            best_sell_price = max(dmarket_prices[item].get("sell",0), swapgg_prices[item].get("sell",0))
             profit = math.floor((best_sell_price-best_buy_price) * 100) / 100
 
             if not current_opportunities_lock.acquire(timeout=lock_timeout):
