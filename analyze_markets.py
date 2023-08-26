@@ -15,96 +15,193 @@ def loadFromFile(filename):
     except:
         return {}
 
+def scan_for_opportunities():
+    global current_opportunities
+    while scanning_active:
+        swapgg_prices = swapgg.getPricesForAllItems()
+        for item in swapgg_prices.keys():
+            if not scanning_active: return
+            dmarket_prices = dmarket.getPricesForItems([str(item)])
+
+            best_buy_price = min(dmarket_prices[item].get("buy",9999999), swapgg_prices[item].get("buy",9999999))
+            best_sell_price = max(dmarket_prices[item].get("sell",0), swapgg_prices[item].get("sell",0))
+            profit = math.floor((best_sell_price-best_buy_price) * 100) / 100
+            if profit > 0:
+                if best_buy_price == dmarket_prices[item].get("buy",9999999):
+                    buy_market = "DMarket"
+                    sell_market = "SwapGG"
+                else:
+                    buy_market = "SwapGG"
+                    sell_market = "DMarket"
+                if not current_opportunities_lock.acquire(timeout=lock_timeout):
+                    print("Likely deadlock on current_opportunities_lock")
+                try:
+                    if item not in current_opportunities.keys(): 
+                        # New opportunity
+                        current_opportunities[item] = (best_buy_price, best_sell_price, time.time(), buy_market, sell_market)
+                    elif current_opportunities[item][0] != best_buy_price and current_opportunities[item][1] != best_sell_price:
+                        # Opportunity changed but is still profitable
+                        #TODO: handle this as previous opportunity ending as well?
+                        register_opportunity_end(item)
+                        current_opportunities[item] = (best_buy_price, best_sell_price, time.time(), buy_market, sell_market)
+                except Exception as e:
+                    print("scan_for_opportunities error: {}".format(e))
+                current_opportunities_lock.release()
+            
+def log(msg):
+    if not log_lock.acquire(timeout=lock_timeout):
+        print("Likely deadlock on log_lock")
+    try:
+        with open(analysis_output_file, 'a') as file: file.write(msg + '\n')
+        print(msg)
+    except Exception as e:
+        print("log error: {}".format(e))
+    log_lock.release()
+
+def update_market_stats(profit, roi, duration):
+    global optimistic_estimated_profit
+    global avg_roi
+    global avg_profit
+    global avg_opportunity_duration
+    global min_opportunity_duration
+    global max_opportunity_duration
+    global total_opportunities_detected
+    
+    if not market_stats_lock.acquire(timeout=lock_timeout):
+        print("Likely deadlock on market_stats_lock")
+        
+    try:
+        optimistic_estimated_profit += profit
+        avg_roi = (avg_roi * total_opportunities_detected + roi) / (total_opportunities_detected + 1)
+        avg_profit = (avg_profit * total_opportunities_detected + profit) / (total_opportunities_detected + 1)
+        avg_opportunity_duration = (avg_opportunity_duration * total_opportunities_detected + duration) / (total_opportunities_detected + 1)
+        min_opportunity_duration = min(duration, min_opportunity_duration)
+        max_opportunity_duration = max(duration, max_opportunity_duration)
+        total_opportunities_detected += 1
+    except Exception as e:
+        print("update_market_stats error: {}".format(e))
+    market_stats_lock.release()
+
+    log("Running average ROI: {}%".format(100 * avg_roi))
+    log("Running average profit per opportunity: ${} USD".format(avg_profit))
+    log("Running average opportunity duration: {}s".format(avg_opportunity_duration))
+    log("Max. opportunity duration: {}s".format(max_opportunity_duration))
+    log("Min. opportunity duration: {}s".format(min_opportunity_duration))
+    log("Total opportunities detected: {}".format(total_opportunities_detected))
+    log("Avg. new opportunities per hour: {}".format(3600 * total_opportunities_detected / total_time_elapsed_during_analysis))
+    log("Estimated cumulative profit (assuming no failures, limitless funds): ${} USD".format(optimistic_estimated_profit))
+    log("Estimated cumulative profit per hour (assuming no failures, limitless funds): ${} USD / hour".format(3600 * optimistic_estimated_profit / total_time_elapsed_during_analysis))
+    log("")
+
+def register_opportunity_end(item):
+    global current_opportunities
+    duration = time.time()-current_opportunities[item][2]
+    profit = current_opportunities[item][1]-current_opportunities[item][0]
+    roi = (current_opportunities[item][1]-current_opportunities[item][0])/current_opportunities[item][0]
+    #Opportunity no longer available
+    log("ARBITRAGE OPPORTUNITY ENDED -> {} -> buy on {} for ${}, sell on {} for ${}".format(item, current_opportunities[item][3], current_opportunities[item][0], current_opportunities[item][4], current_opportunities[item][1]))
+    log("Profit: ${} USD".format(profit))
+    log("ROI: {}%".format(roi))
+    log("Duration: {}s".format(duration))
+    log("")
+    update_market_stats(profit, roi, duration)
+    del current_opportunities[item]
+
+def update_market_data():
+    global total_time_elapsed_during_analysis
+    while update_market_data_active:
+        if not market_stats_lock.acquire(timeout=lock_timeout):
+            print("Likely deadlock on market_stats_lock")
+        try:
+            total_time_elapsed_during_analysis = market_stats.get("total_time_elapsed_during_analysis", 0) + (time.time() - analysis_start_time)
+            saveToFile(analysis_data_file, {
+                "optimistic_estimated_profit": optimistic_estimated_profit,
+                "total_opportunities_detected": total_opportunities_detected,
+                "avg_opportunity_duration": avg_opportunity_duration,
+                "min_opportunity_duration": min_opportunity_duration,
+                "max_opportunity_duration": max_opportunity_duration,
+                "avg_roi": avg_roi,
+                "avg_profit": avg_profit,
+                "total_time_elapsed_during_analysis": total_time_elapsed_during_analysis })
+        except Exception as e:
+            print("update_market_data error: {}".format(e))
+        market_stats_lock.release()
+    
+def check_current_opportunities():
+    while checking_active:
+        if not current_opportunities_lock.acquire(timeout=lock_timeout):
+            print("Likely deadlock on current_opportunities_lock")
+        try: items = [str(k) for k in current_opportunities.keys()]
+        except Exception as e: print("check_current_opportunities p1 error: {}".format(e))
+        current_opportunities_lock.release()
+        for item in items:
+            if not checking_active: return
+            swapgg_price = swapgg.getPricesForAllItems()[str(item)]
+            dmarket_price = dmarket.getPricesForItems([str(item)])[str(item)]
+
+            best_buy_price = min(dmarket_price.get("buy",9999999), swapgg_price.get("buy",9999999))
+            best_sell_price = max(dmarket_price.get("sell",0), swapgg_price.get("sell",0))
+            profit = math.floor((best_sell_price-best_buy_price) * 100) / 100
+
+            if not current_opportunities_lock.acquire(timeout=lock_timeout):
+                print("Likely deadlock on current_opportunities_lock")
+            try:
+                if profit < 0: register_opportunity_end(item)
+            except Exception as e:
+                print("check_current_opportunities p2 error: {}".format(e))
+            current_opportunities_lock.release()
+
+
+analysis_data_file = "data/market_data.pkl"
+analysis_output_file = "data/analysis_result.txt"
+
+log_lock = threading.Lock()
+market_stats = loadFromFile(analysis_data_file)
+market_stats_lock = threading.Lock()
+analysis_start_time = time.time()
+current_opportunities = {}
+current_opportunities_lock = threading.Lock()
+optimistic_estimated_profit = market_stats.get("optimistic_estimated_profit", 0)
+total_opportunities_detected = market_stats.get("total_opportunities_detected", 0)
+avg_opportunity_duration = market_stats.get("avg_opportunity_duration", 0)
+min_opportunity_duration = market_stats.get("min_opportunity_duration", 0)
+max_opportunity_duration = market_stats.get("max_opportunity_duration", 999999999)
+avg_roi = market_stats.get("avg_roi", 0)
+avg_profit = market_stats.get("avg_profit", 0)
+lock_timeout = 10
 
 dmarket = DMarket(public_key="43361c690ccddfd9e9bde83be42dd2cb27d3d3841c5496dbc95db0a609cc955e", secret_key="abedafd4b528dbf6e26436e223417d760496f7763a9a64ece9953464226f44ad43361c690ccddfd9e9bde83be42dd2cb27d3d3841c5496dbc95db0a609cc955e")
 swapgg = SwapGG(api_key="40672ac2-5b00-4609-92fe-d260498a1f7c")
 
-# with open("./data/rust_skins.txt") as f:
-#     skins = [skin[:-1] for skin in f.readlines() if '$' not in skin]
-    # print(dmarket.getPricesForItems(skins))
+update_market_data_thread = threading.Thread(target=update_market_data)
+scanner_thread = threading.Thread(target=scan_for_opportunities)
+checking_thread = threading.Thread(target=check_current_opportunities)
 
-analysis_data_file = "market_data.pkl"
-
-current_opportunities = None
-market_analysis_start = time.time()
-total_new_opportunities = 0
-optimistic_estimated_profit = 0
-
-market_stats = loadFromFile(analysis_data_file)
-avg_opportunity_duration = market_stats.get("avg_opportunity_duration", 0)
-avg_roi = market_stats.get("avg_roi", 0)
-total_opportunities_detected = market_stats.get("total_opportunities_detected", 0)
-sum_durations_item_opportunities = market_stats.get("sum_durations_item_opportunities", 0)
-num_ended_item_opportunities = market_stats.get("num_ended_item_opportunities", 0)
-
-while True:
-
-    new_opportunities = {}
-
-    swapgg_prices = swapgg.getPricesForAllItems()
-    dmarket_prices = dmarket.getPricesForItems([str(item) for item in swapgg_prices.keys()])
-
-    for item in swapgg_prices.keys():
-        best_buy_price = min(dmarket_prices[item].get("buy",9999999), swapgg_prices[item].get("buy",9999999))
-        best_sell_price = max(dmarket_prices[item].get("sell",0), swapgg_prices[item].get("sell",0))
-        profit = math.floor((best_sell_price-best_buy_price) * 100) / 100
-        if profit > 0:
-            if best_buy_price == dmarket_prices[item].get("buy",9999999):
-                buy_market = "DMarket"
-                sell_market = "SwapGG"
-            else:
-                buy_market = "SwapGG"
-                sell_market = "DMarket"
-            new_opportunities[item] = (best_buy_price, best_sell_price, time.time())
-            
-            print("ARBITRAGE OPPORTUNITY -> {} -> buy on {} for ${}, sell on {} for ${} -> ${} profit".format(item, buy_market, best_buy_price, sell_market, best_sell_price, profit))
-
-    if current_opportunities is None: current_opportunities = new_opportunities
-
-    num_new_opportunities = 0
-    roi_sum = 0
-    for item in new_opportunities.keys():
-        if item not in current_opportunities.keys() or (current_opportunities[item][0] != new_opportunities[item][0] and current_opportunities[item][1] != new_opportunities[item][1]): 
-            num_new_opportunities += 1
-            profit = math.floor((new_opportunities[item][1] - new_opportunities[item][0]) * 100) / 100
-            roi = profit / new_opportunities[item][0]
-            roi_sum += roi
-            avg_roi = (avg_roi * total_opportunities_detected + roi) / (total_opportunities_detected + 1)
-            total_opportunities_detected += 1
-            optimistic_estimated_profit += profit
-    new_ended_item_opportunities = 0
-    for item in current_opportunities.keys():
-        if item not in new_opportunities.keys() or (current_opportunities[item][0] != new_opportunities[item][0] and current_opportunities[item][1] != new_opportunities[item][1]):
-            duration_of_item_opportunity =  time.time() - current_opportunities[item][2]
-            sum_durations_item_opportunities += duration_of_item_opportunity
-            num_ended_item_opportunities += 1
-            new_ended_item_opportunities += 1
-
-
-    current_opportunities = new_opportunities
-
-    total_new_opportunities += num_new_opportunities
-    time_since_analysis_start = time.time() - market_analysis_start
-
-    try:
-        print("Average ROI: {}%".format(100*(roi_sum/num_new_opportunities)))
-    except:
-        print("Average ROI: 0%")
-    print("New opportunities: {}".format(num_new_opportunities))
-    print("Lost opportunities: {}".format(new_ended_item_opportunities))
-    print("Running average ROI: {}%".format(100 * avg_roi))
-    try:
-        print("Running average opportunity duration: {}s".format(sum_durations_item_opportunities/num_ended_item_opportunities))
-    except:
-        print("Running average opportunity duration: [N/A]s")
-    print("Total opportunities detected: {}".format(total_opportunities_detected))
-    print("Avg. new opportunities per hour: {}".format(3600 * total_new_opportunities / time_since_analysis_start))
-    print("Estimated cumulative profit (assuming no failures, limitless funds): ${} USD".format(optimistic_estimated_profit))
-    print("Estimated cumulative profit per hour (assuming no failures, limitless funds): ${} USD / hour".format(3600 * optimistic_estimated_profit / time_since_analysis_start))
-
-    saveToFile(analysis_data_file, {
-        "avg_opportunity_duration": avg_opportunity_duration,
-        "avg_roi": avg_roi,
-        "total_opportunities_detected": total_opportunities_detected,
-        "sum_durations_item_opportunities": sum_durations_item_opportunities,
-        "num_ended_item_opportunities": num_ended_item_opportunities })
+try:
+    update_market_data_active = True
+    scanning_active = True
+    checking_active = True
+    update_market_data_thread.start()
+    scanner_thread.start()
+    checking_thread.start()
+    print("Started analysis.")
+    while True:
+        pass
+except KeyboardInterrupt:
+    print("Ending scan...")
+    scanning_active = False
+    scanner_thread.join()
+    print("Ending checking...")
+    checking_active = False
+    checking_thread.join()
+    print("Ending market time updates...")
+    update_market_data_active = False
+    update_market_data_thread.join()
+    print("Ending ongoing opportunities...")
+    items = [str(k) for k in current_opportunities.keys()]
+    for item in items:
+        log("======= OPPORTUNITIES ENDED PREMATURELY =======")
+        # Artificially "end" all ongoing opportunities for logging/debugging purposes
+        register_opportunity_end(item)
+        log("===============================================")
+    print("Done.")

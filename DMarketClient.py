@@ -5,6 +5,7 @@ from nacl.bindings import crypto_sign
 import requests
 import math
 from furl import furl
+import threading
 
 class DMarket:
     def __init__(self, public_key, secret_key):
@@ -13,6 +14,7 @@ class DMarket:
         self.selling_fee = 0.07
         self.api_url = "https://api.dmarket.com"
         self.latest_prices = {}
+        self.lock = threading.Lock()
     def generate_headers(self, method, endpoint, params, body={}):
         nonce = str(round(datetime.now().timestamp()))
         string_to_sign = method + endpoint
@@ -37,6 +39,7 @@ class DMarket:
             all_prices[item] = {}
         items_per_request = 50
         for i in range(math.ceil(len(items)/items_per_request)):
+            self.lock.acquire()
             try:
                 method = "GET"
                 endpoint = "/price-aggregator/v1/aggregated-prices"
@@ -44,14 +47,15 @@ class DMarket:
                 headers = self.generate_headers(method, endpoint, params)
                 url = self.api_url + endpoint
                 response = json.loads(requests.get(url, headers=headers, params=params).text)
+                # print("all_prices {}".format(all_prices))
                 for aggr in response["AggregatedTitles"]:
                     all_prices[aggr["MarketHashName"]]["buy"] = 9999999999 if float(aggr["Offers"]['BestPrice']) <= 0 else math.floor(100 * float(aggr["Offers"]['BestPrice'])) / 100
                     all_prices[aggr["MarketHashName"]]["sell"] = math.floor(100 * float(aggr["Orders"]['BestPrice']) * (1.0 - self.selling_fee)) / 100
             except Exception as e:
-                print("DMarket price fetch exception: " + str(e))
-                continue
-            print("Getting DMarket prices... {}%                                            ".format(100*i/math.ceil(len(items)/items_per_request)), end='\r')
+                print("DMarket error: " + str(e))
             time.sleep(0.35)
+            self.lock.release()
+            # print("Getting DMarket prices... {}%                                            ".format(100*(i+1)/math.ceil(len(items)/items_per_request)), end='\r')
         self.latest_prices.update(all_prices)
         return all_prices
     def buyItemAtBestPrice(self, item):
