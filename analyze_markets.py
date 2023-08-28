@@ -99,7 +99,7 @@ def register_opportunity_end(item):
     global current_opportunities
     duration = time.time()-current_opportunities[item][2]
     profit = current_opportunities[item][1]-current_opportunities[item][0]
-    roi = (current_opportunities[item][1]-current_opportunities[item][0])/current_opportunities[item][0]
+    roi = 100*(current_opportunities[item][1]-current_opportunities[item][0])/current_opportunities[item][0]
     #Opportunity no longer available
     log("ARBITRAGE OPPORTUNITY ENDED -> {} -> buy on {} for ${}, sell on {} for ${}".format(item, current_opportunities[item][3], current_opportunities[item][0], current_opportunities[item][4], current_opportunities[item][1]))
     log("Profit: ${} USD".format(profit))
@@ -107,7 +107,7 @@ def register_opportunity_end(item):
     log("Duration: {}s".format(duration))
     log("")
     update_market_stats(profit, roi, duration)
-    del current_opportunities[item]
+    current_opportunities.pop(item)
 
 def update_swapgg_prices():
     while update_market_prices:
@@ -157,7 +157,7 @@ def check_current_opportunities():
             if not current_opportunities_lock.acquire(timeout=lock_timeout):
                 print("Likely deadlock on current_opportunities_lock")
             try:
-                if profit < 0: register_opportunity_end(item)
+                if profit <= 0: register_opportunity_end(item)
             except Exception as e:
                 print("check_current_opportunities p2 error: {}".format(e))
             current_opportunities_lock.release()
@@ -175,8 +175,8 @@ current_opportunities_lock = threading.Lock()
 optimistic_estimated_profit = market_stats.get("optimistic_estimated_profit", 0)
 total_opportunities_detected = market_stats.get("total_opportunities_detected", 0)
 avg_opportunity_duration = market_stats.get("avg_opportunity_duration", 0)
-min_opportunity_duration = market_stats.get("min_opportunity_duration", 0)
-max_opportunity_duration = market_stats.get("max_opportunity_duration", 999999999)
+min_opportunity_duration = market_stats.get("min_opportunity_duration", 9999999)
+max_opportunity_duration = market_stats.get("max_opportunity_duration", 0)
 avg_roi = market_stats.get("avg_roi", 0)
 avg_profit = market_stats.get("avg_profit", 0)
 lock_timeout = 10
