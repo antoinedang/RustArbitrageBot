@@ -54,6 +54,7 @@ class DMarket:
                 self.lock.release()
             time.sleep(0.35)
             # print("Getting DMarket prices... {}%                                            ".format(100*(i+1)/math.ceil(len(items)/items_per_request)), end='\r')
+
     def getLatestPrices(self):
         self.lock.acquire()
         prices_copy = copy.deepcopy(self.prices)
