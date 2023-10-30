@@ -61,9 +61,9 @@ class DMarket:
         prices_copy = copy.deepcopy(self.prices)
         self.lock.release()
         return prices_copy
-    def buyItemAtBestPrice(self, item):
+    def buyItemAtPrice(self, item, price):
         pass
-    def sellItemAtBestPrice(self, item):
+    def sellItemAtPrice(self, item, price):
         pass
     def withdrawItems(self, items):
         pass

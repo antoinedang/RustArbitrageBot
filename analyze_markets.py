@@ -71,6 +71,9 @@ def update_market_stats(profit, roi, duration):
     
     if not market_stats_lock.acquire(timeout=lock_timeout):
         print("Likely deadlock on market_stats_lock")
+    
+    if (profit > 3 or roi > 2):
+        print("Discarding opportunity. Profit above 3$ or ROI above 200% (unlikely).")
         
     try:
         optimistic_estimated_profit += profit
