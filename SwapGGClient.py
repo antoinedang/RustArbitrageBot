@@ -9,6 +9,7 @@ import copy
 class SwapGG:
     def __init__(self, api_key):
         self.selling_fee = 0.05
+        self.currency_conversion_fee = 0.03
         self.api_url = "https://market-api.swap.gg"
         self.prices = {}
         self.headers = {
@@ -28,7 +29,7 @@ class SwapGG:
             try:
                 if item not in self.prices.keys():
                     self.prices[str(item)] = {}
-                self.prices[str(item)]["sell"] = math.floor(eurToUsd * float(response["result"][item]['maxPrice']) * (1.0 - self.selling_fee)) / 100
+                self.prices[str(item)]["sell"] = math.floor(eurToUsd * float(response["result"][item]['maxPrice']) * (1.0 - (self.selling_fee + self.currency_conversion_fee))) / 100
             except Exception as e:
                 print("Swapgg p2 error: " + str(e))
             self.lock.release()

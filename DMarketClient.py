@@ -13,6 +13,7 @@ class DMarket:
         self.public_key = public_key
         self.secret_key = secret_key
         self.selling_fee = 0.07
+        self.currency_conversion_fee = 0.03
         self.api_url = "https://api.dmarket.com"
         self.prices = {}
         self.lock = threading.Lock()
@@ -48,7 +49,7 @@ class DMarket:
                 try:
                     if aggr["MarketHashName"] not in self.prices.keys(): self.prices[aggr["MarketHashName"]] = {}
                     self.prices[aggr["MarketHashName"]]["buy"] = 9999999999 if float(aggr["Offers"]['BestPrice']) <= 0 else math.floor(100 * float(aggr["Offers"]['BestPrice'])) / 100
-                    self.prices[aggr["MarketHashName"]]["sell"] = math.floor(100 * float(aggr["Orders"]['BestPrice']) * (1.0 - self.selling_fee)) / 100
+                    self.prices[aggr["MarketHashName"]]["sell"] = math.floor(100 * float(aggr["Orders"]['BestPrice']) * (1.0 - (self.selling_fee + self.currency_conversion_fee))) / 100
                 except Exception as e:
                     print("DMarket error: " + str(e))
                 self.lock.release()

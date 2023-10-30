@@ -1,0 +1,13 @@
+ANTOINE
+* implement missing functions in DMarketClient
+* implement missing functions in SwapGGClient
+
+JACK
+* make payoneer account, configure withdrawals to bank account, associate account with Dmarket + SwapGG
+* implement SteamGuard automatic trade accepting
+    * implement safe guard for bot scams
+
+UNASSIGNED
+* implement some check for incorrect sell prices
+* find way to make sure currency conversion rate is matched on Payoneer
+* investigate possible fees with money deposit/withdrawal, item trading, currency conversions
