@@ -8239,3 +8239,1113 @@ Estimated cumulative profit (assuming no failures, limitless funds): $282.760000
 Estimated cumulative profit per hour (assuming no failures, limitless funds): $9.49232152706088 USD / hour
 
 ===============================================
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.1093299388885498s
+
+Running average ROI: 95053.40786789112%
+Running average profit per opportunity: $0.5344401544401542 USD
+Running average opportunity duration: 2360.376098550884s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.017293691635131836s
+Total opportunities detected: 259
+Avg. new opportunities per hour: 8.658033828941925
+Estimated cumulative profit (assuming no failures, limitless funds): $138.42000000000007 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.6271908363677055 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.05399680137634277s
+
+Running average ROI: 95053.20245301462%
+Running average profit per opportunity: $0.5331153846153844 USD
+Running average opportunity duration: 2351.2979366210784s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.017293691635131836s
+Total opportunities detected: 260
+Avg. new opportunities per hour: 8.678668030518837
+Estimated cumulative profit (assuming no failures, limitless funds): $138.61000000000007 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.626720762172085 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.12405252456665039s
+
+Running average ROI: 95052.99861219847%
+Running average profit per opportunity: $0.5318007662835247 USD
+Running average opportunity duration: 2342.289607563237s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.017293691635131836s
+Total opportunities detected: 261
+Avg. new opportunities per hour: 8.685057754064394
+Estimated cumulative profit (assuming no failures, limitless funds): $138.80000000000007 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.618707785153523 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.0779719352722168s
+
+Running average ROI: 95052.79632741908%
+Running average profit per opportunity: $0.5304961832061067 USD
+Running average opportunity duration: 2333.349868495955s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.017293691635131836s
+Total opportunities detected: 262
+Avg. new opportunities per hour: 8.6963673928857
+Estimated cumulative profit (assuming no failures, limitless funds): $138.99000000000007 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.613383755410458 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.03507208824157715s
+
+Running average ROI: 95052.595580927%
+Running average profit per opportunity: $0.5292015209125474 USD
+Running average opportunity duration: 2324.477949117979s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.017293691635131836s
+Total opportunities detected: 263
+Avg. new opportunities per hour: 8.727708287180835
+Estimated cumulative profit (assuming no failures, limitless funds): $139.18000000000006 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.618707250535601 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.029410362243652344s
+
+Running average ROI: 95052.39635524167%
+Running average profit per opportunity: $0.5279166666666665 USD
+Running average opportunity duration: 2315.67321980451s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.017293691635131836s
+Total opportunities detected: 264
+Avg. new opportunities per hour: 8.757232363060083
+Estimated cumulative profit (assuming no failures, limitless funds): $139.37000000000006 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.62307578609212 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.037711381912231445s
+
+Running average ROI: 95052.19863314641%
+Running average profit per opportunity: $0.526641509433962 USD
+Running average opportunity duration: 2306.9349726029154s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.017293691635131836s
+Total opportunities detected: 265
+Avg. new opportunities per hour: 8.784161158005107
+Estimated cumulative profit (assuming no failures, limitless funds): $139.56000000000006 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.626093268880014 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.13570952415466309s
+
+Running average ROI: 95052.00239768346%
+Running average profit per opportunity: $0.5253759398496238 USD
+Running average opportunity duration: 2298.2627949221683s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.017293691635131836s
+Total opportunities detected: 266
+Avg. new opportunities per hour: 8.815170781588852
+Estimated cumulative profit (assuming no failures, limitless funds): $139.75000000000006 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.631271904514192 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.102935791015625s
+
+Running average ROI: 95051.80763214907%
+Running average profit per opportunity: $0.5241198501872657 USD
+Running average opportunity duration: 2289.6554546257967s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.017293691635131836s
+Total opportunities detected: 267
+Avg. new opportunities per hour: 8.846191800716054
+Estimated cumulative profit (assuming no failures, limitless funds): $139.94000000000005 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.636454826275391 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.06026268005371094s
+
+Running average ROI: 95051.61432008882%
+Running average profit per opportunity: $0.522873134328358 USD
+Running average opportunity duration: 2281.1121889842084s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.017293691635131836s
+Total opportunities detected: 268
+Avg. new opportunities per hour: 8.869032856887932
+Estimated cumulative profit (assuming no failures, limitless funds): $140.13000000000005 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.637368461986944 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.20295071601867676s
+
+Running average ROI: 95051.42244529293%
+Running average profit per opportunity: $0.5216356877323418 USD
+Running average opportunity duration: 2272.6329724850702s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.017293691635131836s
+Total opportunities detected: 269
+Avg. new opportunities per hour: 8.8835947741625
+Estimated cumulative profit (assuming no failures, limitless funds): $140.32000000000005 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.633990890879886 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.03013134002685547s
+
+Running average ROI: 95051.23199179185%
+Running average profit per opportunity: $0.5204074074074072 USD
+Running average opportunity duration: 2264.215924925274s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.017293691635131836s
+Total opportunities detected: 270
+Avg. new opportunities per hour: 8.887619108279218
+Estimated cumulative profit (assuming no failures, limitless funds): $140.51000000000005 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.625170907140339 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.10302186012268066s
+
+Running average ROI: 95051.04294385167%
+Running average profit per opportunity: $0.5191881918819186 USD
+Running average opportunity duration: 2255.8612647663617s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.017293691635131836s
+Total opportunities detected: 271
+Avg. new opportunities per hour: 8.916471020356793
+Estimated cumulative profit (assuming no failures, limitless funds): $140.70000000000005 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.629321266807754 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.10891127586364746s
+
+Running average ROI: 95050.85528596985%
+Running average profit per opportunity: $0.5179779411764703 USD
+Running average opportunity duration: 2247.5680575844117s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.017293691635131836s
+Total opportunities detected: 272
+Avg. new opportunities per hour: 8.947294840713274
+Estimated cumulative profit (assuming no failures, limitless funds): $140.89000000000004 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.634486323269305 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.13393926620483398s
+
+Running average ROI: 95050.66900287106%
+Running average profit per opportunity: $0.5167765567765565 USD
+Running average opportunity duration: 2239.3356981766524s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.017293691635131836s
+Total opportunities detected: 273
+Avg. new opportunities per hour: 8.969986534088772
+Estimated cumulative profit (assuming no failures, limitless funds): $141.08000000000004 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.635470253135399 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.12384724617004395s
+
+Running average ROI: 95050.48407950292%
+Running average profit per opportunity: $0.5155839416058391 USD
+Running average opportunity duration: 2231.163392151359s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.017293691635131836s
+Total opportunities detected: 274
+Avg. new opportunities per hour: 8.989909732265458
+Estimated cumulative profit (assuming no failures, limitless funds): $141.27000000000004 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.635044424218361 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.11632752418518066s
+
+Running average ROI: 95050.300501032%
+Running average profit per opportunity: $0.5143999999999997 USD
+Running average opportunity duration: 2223.0504937345327s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.017293691635131836s
+Total opportunities detected: 275
+Avg. new opportunities per hour: 9.020751096597134
+Estimated cumulative profit (assuming no failures, limitless funds): $141.46000000000004 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.640261197253748 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.12520885467529297s
+
+Running average ROI: 95050.11825283986%
+Running average profit per opportunity: $0.5132246376811591 USD
+Running average opportunity duration: 2214.9964166154027s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.017293691635131836s
+Total opportunities detected: 276
+Avg. new opportunities per hour: 9.045098916549556
+Estimated cumulative profit (assuming no failures, limitless funds): $141.65000000000003 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.642151933609158 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.03880047798156738s
+
+Running average ROI: 95049.93732051914%
+Running average profit per opportunity: $0.5120577617328517 USD
+Running average opportunity duration: 2207.00017973404s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.017293691635131836s
+Total opportunities detected: 277
+Avg. new opportunities per hour: 9.076045436851548
+Estimated cumulative profit (assuming no failures, limitless funds): $141.84000000000003 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.647449584219335 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.15398097038269043s
+
+Running average ROI: 95049.7576898698%
+Running average profit per opportunity: $0.5108992805755392 USD
+Running average opportunity duration: 2199.061884055034s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.017293691635131836s
+Total opportunities detected: 278
+Avg. new opportunities per hour: 9.102873770668433
+Estimated cumulative profit (assuming no failures, limitless funds): $142.03000000000003 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.650636677977684 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.13252854347229004s
+
+Running average ROI: 95049.57934689535%
+Running average profit per opportunity: $0.509749103942652 USD
+Running average opportunity duration: 2191.1804168309786s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.017293691635131836s
+Total opportunities detected: 279
+Avg. new opportunities per hour: 9.12735423012117
+Estimated cumulative profit (assuming no failures, limitless funds): $142.22000000000003 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.652652764757031 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.06256365776062012s
+
+Running average ROI: 95049.4022777993%
+Running average profit per opportunity: $0.5086071428571426 USD
+Running average opportunity duration: 2183.3549959267884s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.017293691635131836s
+Total opportunities detected: 280
+Avg. new opportunities per hour: 9.15793744464167
+Estimated cumulative profit (assuming no failures, limitless funds): $142.41000000000003 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.657785836440061 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.015582561492919922s
+
+Running average ROI: 95049.2264689815%
+Running average profit per opportunity: $0.5074733096085406 USD
+Running average opportunity duration: 2175.5851047760225s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015582561492919922s
+Total opportunities detected: 281
+Avg. new opportunities per hour: 9.177548022996747
+Estimated cumulative profit (assuming no failures, limitless funds): $142.60000000000002 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.657358752348988 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.21452999114990234s
+
+Running average ROI: 95049.05190703477%
+Running average profit per opportunity: $0.5063475177304961 USD
+Running average opportunity duration: 2167.871024723594s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015582561492919922s
+Total opportunities detected: 282
+Avg. new opportunities per hour: 9.203679161409877
+Estimated cumulative profit (assuming no failures, limitless funds): $142.79000000000002 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.660240487437309 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.10642361640930176s
+
+Running average ROI: 95048.87857874135%
+Running average profit per opportunity: $0.5052296819787983 USD
+Running average opportunity duration: 2160.211079136643s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015582561492919922s
+Total opportunities detected: 283
+Avg. new opportunities per hour: 9.231695117304971
+Estimated cumulative profit (assuming no failures, limitless funds): $142.98000000000002 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.664107548075858 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.06230950355529785s
+
+Running average ROI: 95048.70647106973%
+Running average profit per opportunity: $0.5041197183098588 USD
+Running average opportunity duration: 2152.60492149709s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015582561492919922s
+Total opportunities detected: 284
+Avg. new opportunities per hour: 9.262150878534474
+Estimated cumulative profit (assuming no failures, limitless funds): $143.17000000000002 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.669224940917065 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.18526721000671387s
+
+Running average ROI: 95048.53557117123%
+Running average profit per opportunity: $0.5030175438596488 USD
+Running average opportunity duration: 2145.0525718329245s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015582561492919922s
+Total opportunities detected: 285
+Avg. new opportunities per hour: 9.279048582977586
+Estimated cumulative profit (assuming no failures, limitless funds): $143.36 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.667518365429215 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.16723084449768066s
+
+Running average ROI: 95048.36586637693%
+Running average profit per opportunity: $0.5019230769230766 USD
+Running average opportunity duration: 2137.552972738559s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015582561492919922s
+Total opportunities detected: 286
+Avg. new opportunities per hour: 9.29859831027033
+Estimated cumulative profit (assuming no failures, limitless funds): $143.55 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.66717187637785 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.10553312301635742s
+
+Running average ROI: 95048.19734419443%
+Running average profit per opportunity: $0.5008362369337975 USD
+Running average opportunity duration: 2130.1054206841495s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015582561492919922s
+Total opportunities detected: 287
+Avg. new opportunities per hour: 9.288065339220282
+Estimated cumulative profit (assuming no failures, limitless funds): $143.74 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.651787889391848 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.0772705078125s
+
+Running average ROI: 95048.02999230487%
+Running average profit per opportunity: $0.4997569444444441 USD
+Running average opportunity duration: 2122.7094896071485s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015582561492919922s
+Total opportunities detected: 288
+Avg. new opportunities per hour: 9.277677500479593
+Estimated cumulative profit (assuming no failures, limitless funds): $143.93 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.636577352164992 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.12495732307434082s
+
+Running average ROI: 95047.86379855988%
+Running average profit per opportunity: $0.49868512110726604 USD
+Running average opportunity duration: 2115.3649064504566s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015582561492919922s
+Total opportunities detected: 289
+Avg. new opportunities per hour: 9.305474963777021
+Estimated cumulative profit (assuming no failures, limitless funds): $144.12 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.640492329445329 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.24921512603759766s
+
+Running average ROI: 95047.69875097863%
+Running average profit per opportunity: $0.49762068965517203 USD
+Running average opportunity duration: 2108.071404066579s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015582561492919922s
+Total opportunities detected: 290
+Avg. new opportunities per hour: 9.281730915649584
+Estimated cumulative profit (assuming no failures, limitless funds): $144.31 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.6187762136064485 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.0682687759399414s
+
+Running average ROI: 95047.53483774503%
+Running average profit per opportunity: $0.49656357388316114 USD
+Running average opportunity duration: 2100.827407038089s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015582561492919922s
+Total opportunities detected: 291
+Avg. new opportunities per hour: 9.309551466343752
+Estimated cumulative profit (assuming no failures, limitless funds): $144.5 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.622774570392562 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.07441186904907227s
+
+Running average ROI: 95047.3720472048%
+Running average profit per opportunity: $0.4955136986301366 USD
+Running average opportunity duration: 2093.6330474655924s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015582561492919922s
+Total opportunities detected: 292
+Avg. new opportunities per hour: 9.339583386560642
+Estimated cumulative profit (assuming no failures, limitless funds): $144.69 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.627881310506978 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.06320786476135254s
+
+Running average ROI: 95047.2103678628%
+Running average profit per opportunity: $0.4944709897610918 USD
+Running average opportunity duration: 2086.487757910641s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015582561492919922s
+Total opportunities detected: 293
+Avg. new opportunities per hour: 9.36731882783869
+Estimated cumulative profit (assuming no failures, limitless funds): $144.88 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.6318616169550335 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.07734489440917969s
+
+Running average ROI: 95047.04978838029%
+Running average profit per opportunity: $0.49343537414965943 USD
+Running average opportunity duration: 2079.3911238527626s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015582561492919922s
+Total opportunities detected: 294
+Avg. new opportunities per hour: 9.397101798321744
+Estimated cumulative profit (assuming no failures, limitless funds): $145.07 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.636854089880353 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.17102313041687012s
+
+Running average ROI: 95046.89029757222%
+Running average profit per opportunity: $0.49240677966101654 USD
+Running average opportunity duration: 2072.3429201215004s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015582561492919922s
+Total opportunities detected: 295
+Avg. new opportunities per hour: 9.42281601782788
+Estimated cumulative profit (assuming no failures, limitless funds): $145.26 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.639847066587434 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.0632925033569336s
+
+Running average ROI: 95046.73188440474%
+Running average profit per opportunity: $0.4913851351351347 USD
+Running average opportunity duration: 2065.3419754336014s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015582561492919922s
+Total opportunities detected: 296
+Avg. new opportunities per hour: 9.450566117139875
+Estimated cumulative profit (assuming no failures, limitless funds): $145.45 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.643863825115602 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.06424617767333984s
+
+Running average ROI: 95046.57453799261%
+Running average profit per opportunity: $0.49037037037036996 USD
+Running average opportunity duration: 2058.3881783653997s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015582561492919922s
+Total opportunities detected: 297
+Avg. new opportunities per hour: 9.470780566863915
+Estimated cumulative profit (assuming no failures, limitless funds): $145.64 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.644176121691039 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.03248310089111328s
+
+Running average ROI: 95046.41824759667%
+Running average profit per opportunity: $0.4893624161073821 USD
+Running average opportunity duration: 2051.480944488673s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015582561492919922s
+Total opportunities detected: 298
+Avg. new opportunities per hour: 9.48843870051007
+Estimated cumulative profit (assuming no failures, limitless funds): $145.82999999999998 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.643278887742171 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.04699397087097168s
+
+Running average ROI: 95046.26300262142%
+Running average profit per opportunity: $0.48836120401337746 USD
+Running average opportunity duration: 2044.619961376573s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015582561492919922s
+Total opportunities detected: 299
+Avg. new opportunities per hour: 9.518380439164556
+Estimated cumulative profit (assuming no failures, limitless funds): $146.01999999999998 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.648391959381131 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.07772541046142578s
+
+Running average ROI: 95046.10879261268%
+Running average profit per opportunity: $0.4873666666666662 USD
+Running average opportunity duration: 2037.8048205900193s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015582561492919922s
+Total opportunities detected: 300
+Avg. new opportunities per hour: 9.548288840172631
+Estimated cumulative profit (assuming no failures, limitless funds): $146.20999999999998 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.653511344594061 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.10963559150695801s
+
+Running average ROI: 95045.95560725516%
+Running average profit per opportunity: $0.4863787375415278 USD
+Running average opportunity duration: 2031.0350691448414s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015582561492919922s
+Total opportunities detected: 301
+Avg. new opportunities per hour: 9.552044159143993
+Estimated cumulative profit (assuming no failures, limitless funds): $146.39999999999998 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.64590296321635 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.04666638374328613s
+
+Running average ROI: 95045.80343637022%
+Running average profit per opportunity: $0.485397350993377 USD
+Running average opportunity duration: 2024.309941983381s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015582561492919922s
+Total opportunities detected: 302
+Avg. new opportunities per hour: 9.567605048417455
+Estimated cumulative profit (assuming no failures, limitless funds): $146.58999999999997 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.644081845776133 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Basebreaker LR -> buy on DMarket for $0.59, sell on SwapGG for $0.63
+Profit: $0.040000000000000036 USD
+ROI: 6.779661016949159%
+Duration: 6717.9408593177795s
+
+Running average ROI: 94734.358428665%
+Running average profit per opportunity: $0.48392739273927343 USD
+Running average opportunity duration: 2039.8004730636924s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015582561492919922s
+Total opportunities detected: 303
+Avg. new opportunities per hour: 9.570353150683939
+Estimated cumulative profit (assuming no failures, limitless funds): $146.62999999999997 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.631350990961268 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Wood -> buy on DMarket for $0.21, sell on SwapGG for $0.23
+Profit: $0.020000000000000018 USD
+ROI: 9.523809523809533%
+Duration: 3260.3571178913116s
+
+Running average ROI: 94425.86508170355%
+Running average profit per opportunity: $0.48240131578947326 USD
+Running average opportunity duration: 2043.815462026941s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015582561492919922s
+Total opportunities detected: 304
+Avg. new opportunities per hour: 9.60120803143335
+Estimated cumulative profit (assuming no failures, limitless funds): $146.64999999999998 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.6316323208382135 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.03660893440246582s
+
+Running average ROI: 94427.74749127173%
+Running average profit per opportunity: $0.48144262295081924 USD
+Running average opportunity duration: 2037.1145477545067s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015582561492919922s
+Total opportunities detected: 305
+Avg. new opportunities per hour: 9.611758080529935
+Estimated cumulative profit (assuming no failures, limitless funds): $146.83999999999997 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.627503699146431 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.029997587203979492s
+
+Running average ROI: 94429.6175975094%
+Running average profit per opportunity: $0.4804901960784309 USD
+Running average opportunity duration: 2030.4574087016722s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015582561492919922s
+Total opportunities detected: 306
+Avg. new opportunities per hour: 9.633965271897043
+Estimated cumulative profit (assuming no failures, limitless funds): $147.02999999999997 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.629012710760364 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.12316441535949707s
+
+Running average ROI: 94431.47552064456%
+Running average profit per opportunity: $0.4795439739413676 USD
+Running average opportunity duration: 2023.8439421079058s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015582561492919922s
+Total opportunities detected: 307
+Avg. new opportunities per hour: 9.661475802660771
+Estimated cumulative profit (assuming no failures, limitless funds): $147.21999999999997 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.633096229446951 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.07805943489074707s
+
+Running average ROI: 94433.32137934376%
+Running average profit per opportunity: $0.47860389610389564 USD
+Running average opportunity duration: 2017.2732736576688s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015582561492919922s
+Total opportunities detected: 308
+Avg. new opportunities per hour: 9.66110691315513
+Estimated cumulative profit (assuming no failures, limitless funds): $147.40999999999997 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.623838465699733 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.06392097473144531s
+
+Running average ROI: 94435.15529073746%
+Running average profit per opportunity: $0.4776699029126209 USD
+Running average opportunity duration: 2010.7450880502806s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015582561492919922s
+Total opportunities detected: 309
+Avg. new opportunities per hour: 9.690649171774961
+Estimated cumulative profit (assuming no failures, limitless funds): $147.59999999999997 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.628921493290072 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.061623334884643555s
+
+Running average ROI: 94436.97737044477%
+Running average profit per opportunity: $0.4767419354838705 USD
+Running average opportunity duration: 2004.2590123576504s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015582561492919922s
+Total opportunities detected: 310
+Avg. new opportunities per hour: 9.720105673742527
+Estimated cumulative profit (assuming no failures, limitless funds): $147.78999999999996 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.633976328951779 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.030235767364501953s
+
+Running average ROI: 94438.78773259767%
+Running average profit per opportunity: $0.47581993569131786 USD
+Running average opportunity duration: 1997.8145468380674s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015582561492919922s
+Total opportunities detected: 311
+Avg. new opportunities per hour: 9.730307516926956
+Estimated cumulative profit (assuming no failures, limitless funds): $147.97999999999996 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.629862433368944 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.11638665199279785s
+
+Running average ROI: 94440.58648986499%
+Running average profit per opportunity: $0.4749038461538457 USD
+Running average opportunity duration: 1991.4116681195223s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015582561492919922s
+Total opportunities detected: 312
+Avg. new opportunities per hour: 9.757065668644334
+Estimated cumulative profit (assuming no failures, limitless funds): $148.16999999999996 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.633651666488924 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.03160667419433594s
+
+Running average ROI: 94442.37375347565%
+Running average profit per opportunity: $0.47399361022364167 USD
+Running average opportunity duration: 1985.049431501486s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015582561492919922s
+Total opportunities detected: 313
+Avg. new opportunities per hour: 9.770673070313402
+Estimated cumulative profit (assuming no failures, limitless funds): $148.35999999999996 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.631227888917478 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.022954225540161133s
+
+Running average ROI: 94444.14963324164%
+Running average profit per opportunity: $0.47308917197452177 USD
+Running average opportunity duration: 1978.7276911279957s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015582561492919922s
+Total opportunities detected: 314
+Avg. new opportunities per hour: 9.79280636416893
+Estimated cumulative profit (assuming no failures, limitless funds): $148.54999999999995 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.632863747200322 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.015136241912841797s
+
+Running average ROI: 94445.91423758057%
+Running average profit per opportunity: $0.47219047619047566 USD
+Running average opportunity duration: 1972.4460639696272s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015136241912841797s
+Total opportunities detected: 315
+Avg. new opportunities per hour: 9.79858564601996
+Estimated cumulative profit (assuming no failures, limitless funds): $148.73999999999995 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.626787755377926 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.03186607360839844s
+
+Running average ROI: 94447.66767353758%
+Running average profit per opportunity: $0.47129746835442987 USD
+Running average opportunity duration: 1966.2042468876778s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015136241912841797s
+Total opportunities detected: 316
+Avg. new opportunities per hour: 9.811528094015529
+Estimated cumulative profit (assuming no failures, limitless funds): $148.92999999999995 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.624139093755457 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.27884817123413086s
+
+Running average ROI: 94449.41004680718%
+Running average profit per opportunity: $0.47041009463722344 USD
+Running average opportunity duration: 1960.0025894784776s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015136241912841797s
+Total opportunities detected: 317
+Avg. new opportunities per hour: 9.836346778134011
+Estimated cumulative profit (assuming no failures, limitless funds): $149.11999999999995 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.627107515613585 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.07009196281433105s
+
+Running average ROI: 94451.14146175433%
+Running average profit per opportunity: $0.4695283018867919 USD
+Running average opportunity duration: 1953.8392797378624s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015136241912841797s
+Total opportunities detected: 318
+Avg. new opportunities per hour: 9.861265269013455
+Estimated cumulative profit (assuming no failures, limitless funds): $149.30999999999995 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.630132032000263 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.09019088745117188s
+
+Running average ROI: 94452.86202143536%
+Running average profit per opportunity: $0.4686520376175543 USD
+Running average opportunity duration: 1947.7146744436604s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015136241912841797s
+Total opportunities detected: 319
+Avg. new opportunities per hour: 9.873854600967523
+Estimated cumulative profit (assuming no failures, limitless funds): $149.49999999999994 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.627394728206689 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.1855297088623047s
+
+Running average ROI: 94454.57182761836%
+Running average profit per opportunity: $0.4677812499999995 USD
+Running average opportunity duration: 1941.6286458663642s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015136241912841797s
+Total opportunities detected: 320
+Avg. new opportunities per hour: 9.897686697200243
+Estimated cumulative profit (assuming no failures, limitless funds): $149.68999999999994 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.629939890167165 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.07539224624633789s
+
+Running average ROI: 94456.27098080335%
+Running average profit per opportunity: $0.4669158878504667 USD
+Running average opportunity duration: 1935.5801933628748s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015136241912841797s
+Total opportunities detected: 321
+Avg. new opportunities per hour: 9.924222243381505
+Estimated cumulative profit (assuming no failures, limitless funds): $149.87999999999994 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.6337696649906785 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.06185722351074219s
+
+Running average ROI: 94457.95958024186%
+Running average profit per opportunity: $0.46605590062111746 USD
+Running average opportunity duration: 1929.569266853125s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015136241912841797s
+Total opportunities detected: 322
+Avg. new opportunities per hour: 9.952944557337622
+Estimated cumulative profit (assuming no failures, limitless funds): $150.06999999999994 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.6386223052431435 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.09930157661437988s
+
+Running average ROI: 94459.63772395629%
+Running average profit per opportunity: $0.4652012383900923 USD
+Running average opportunity duration: 1923.595675629359s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015136241912841797s
+Total opportunities detected: 323
+Avg. new opportunities per hour: 9.972611604088256
+Estimated cumulative profit (assuming no failures, limitless funds): $150.25999999999993 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.639263908124581 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.0943751335144043s
+
+Running average ROI: 94461.30550875889%
+Running average profit per opportunity: $0.4643518518518513 USD
+Running average opportunity duration: 1917.6589432204212s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015136241912841797s
+Total opportunities detected: 324
+Avg. new opportunities per hour: 9.979802040103127
+Estimated cumulative profit (assuming no failures, limitless funds): $150.44999999999993 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.634131614442086 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.11754035949707031s
+
+Running average ROI: 94462.9630302704%
+Running average profit per opportunity: $0.46350769230769173 USD
+Running average opportunity duration: 1911.758815827003s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015136241912841797s
+Total opportunities detected: 325
+Avg. new opportunities per hour: 9.99646235746444
+Estimated cumulative profit (assuming no failures, limitless funds): $150.63999999999993 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.633425517335379 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.028571605682373047s
+
+Running average ROI: 94464.61038293826%
+Running average profit per opportunity: $0.46266871165644113 USD
+Running average opportunity duration: 1905.89461262387s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015136241912841797s
+Total opportunities detected: 326
+Avg. new opportunities per hour: 10.004839337710738
+Estimated cumulative profit (assuming no failures, limitless funds): $150.82999999999993 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.6289169732199085 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.0693812370300293s
+
+Running average ROI: 94466.24766005467%
+Running average profit per opportunity: $0.4618348623853205 USD
+Running average opportunity duration: 1900.0664009070906s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015136241912841797s
+Total opportunities detected: 327
+Avg. new opportunities per hour: 10.033333072600453
+Estimated cumulative profit (assuming no failures, limitless funds): $151.01999999999992 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.633738144458742 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.15425705909729004s
+
+Running average ROI: 94467.87495377401%
+Running average profit per opportunity: $0.46100609756097505 USD
+Running average opportunity duration: 1894.2739858343834s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015136241912841797s
+Total opportunities detected: 328
+Avg. new opportunities per hour: 10.059508605431304
+Estimated cumulative profit (assuming no failures, limitless funds): $151.20999999999992 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.637482520707616 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.028560876846313477s
+
+Running average ROI: 94469.49235513034%
+Running average profit per opportunity: $0.4601823708206681 USD
+Running average opportunity duration: 1888.516400956093s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015136241912841797s
+Total opportunities detected: 329
+Avg. new opportunities per hour: 10.076873946397464
+Estimated cumulative profit (assuming no failures, limitless funds): $151.39999999999992 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.63718989250174 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.06920695304870605s
+
+Running average ROI: 94471.09995405417%
+Running average profit per opportunity: $0.45936363636363575 USD
+Running average opportunity duration: 1882.7938337015382s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015136241912841797s
+Total opportunities detected: 330
+Avg. new opportunities per hour: 10.105293491285185
+Estimated cumulative profit (assuming no failures, limitless funds): $151.58999999999992 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.6419927986280225 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.05979418754577637s
+
+Running average ROI: 94472.69783938935%
+Running average profit per opportunity: $0.4585498489425976 USD
+Running average opportunity duration: 1877.1058154552725s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015136241912841797s
+Total opportunities detected: 331
+Avg. new opportunities per hour: 10.128906119116445
+Estimated cumulative profit (assuming no failures, limitless funds): $151.77999999999992 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.644602857735862 USD / hour
+
+ARBITRAGE OPPORTUNITY ENDED -> Metal -> buy on DMarket for $0.02, sell on SwapGG for $0.21
+Profit: $0.19 USD
+ROI: 950.0%
+Duration: 0.060884714126586914s
+
+Running average ROI: 94474.28609890927%
+Running average profit per opportunity: $0.45774096385542107 USD
+Running average opportunity duration: 1871.4520656638836s
+Max. opportunity duration: 34376.240312337875s
+Min. opportunity duration: 0.015136241912841797s
+Total opportunities detected: 332
+Avg. new opportunities per hour: 10.1573308711126
+Estimated cumulative profit (assuming no failures, limitless funds): $151.9699999999999 USD
+Estimated cumulative profit per hour (assuming no failures, limitless funds): $4.649417076984628 USD / hour
+

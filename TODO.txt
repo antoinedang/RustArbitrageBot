@@ -8,6 +8,9 @@ JACK
     * implement safe guard for bot scams
 
 UNASSIGNED
+* add ability for bot to buy more than one copy an item (since often more than one item is available for sale at once)
+* figure out threading architecture so the bot can detect, pursue, and monitor several opportunities simultaneously with (as little as possible) lost time
+    * and also a way to do that while still being readable (i.e. ROS-like structure)
 * implement some check for incorrect sell prices
 * find way to make sure currency conversion rate is matched on Payoneer
 * investigate possible fees with money deposit/withdrawal, item trading, currency conversions

@@ -29,6 +29,7 @@ class SwapGG:
             try:
                 if item not in self.prices.keys():
                     self.prices[str(item)] = {}
+                # TODO: also get quantity available at this price
                 self.prices[str(item)]["sell"] = math.floor(eurToUsd * float(response["result"][item]['maxPrice']) * (1.0 - (self.selling_fee + self.currency_conversion_fee))) / 100
             except Exception as e:
                 print("Swapgg p2 error: " + str(e))
@@ -43,6 +44,7 @@ class SwapGG:
             try:
                 if item not in self.prices.keys():
                     self.prices[str(item)] = {}
+                # TODO: also get quantity available at this price
                 self.prices[str(item)]["buy"] = math.floor(eurToUsd * float(response["result"][item]['price'])) / 100
             except Exception as e:
                 print("Swapgg p2 error: " + str(e))
@@ -52,11 +54,12 @@ class SwapGG:
     def getLatestPrices(self):
         self.lock.acquire()
         prices_copy = copy.deepcopy(self.prices)
+        # TODO: also return quantity available at this price
         self.lock.release()
         return prices_copy
-    def buyItemAtPrice(self, item, price):
+    def buyAtPrice(self, item, price):
         pass
-    def sellItemAtPrice(self, item, price):
+    def sellAtPrice(self, item, price):
         pass
     def withdrawItems(self, items):
         pass

@@ -48,6 +48,7 @@ class DMarket:
                 self.lock.acquire()
                 try:
                     if aggr["MarketHashName"] not in self.prices.keys(): self.prices[aggr["MarketHashName"]] = {}
+                    # TODO: also get quantity available at this price
                     self.prices[aggr["MarketHashName"]]["buy"] = 9999999999 if float(aggr["Offers"]['BestPrice']) <= 0 else math.floor(100 * float(aggr["Offers"]['BestPrice'])) / 100
                     self.prices[aggr["MarketHashName"]]["sell"] = math.floor(100 * float(aggr["Orders"]['BestPrice']) * (1.0 - (self.selling_fee + self.currency_conversion_fee))) / 100
                 except Exception as e:
@@ -59,12 +60,32 @@ class DMarket:
     def getLatestPrices(self):
         self.lock.acquire()
         prices_copy = copy.deepcopy(self.prices)
+        # TODO: also return quantity available at this price
         self.lock.release()
         return prices_copy
-    def buyItemAtPrice(self, item, price):
-        pass
-    def sellItemAtPrice(self, item, price):
-        pass
+    
+    def buyAtPrice(self, item, price, quantity):
+        method = "POST"
+        endpoint = "/marketplace-api/v1/user-targets/create"
+        params = { "GameID": "rust", "Targets": [ { "Amount": str(quantity), "Price": { "Currency": "USD", "Amount": price }, "Title": item, "Attrs": { "paintSeed": 0, "phase": "", "floatPartValue": "" } } ] }
+        headers = self.generate_headers(method, endpoint, params)
+        url = self.api_url + endpoint
+        response = json.loads(requests.get(url, headers=headers, params=params).text)
+        print(response)
+        # TODO wait until buy order is confirmed successful, if fails then give up waiting
+        
+    def sellAtPrice(self, item, price, quantity):
+        # TODO -> convert from item name to item ID?
+        method = "POST"
+        endpoint = "/marketplace-api/v1/user-targets/create"
+        
+        params = { "Offers": quantity*[ { "AssetID": item, "Price": { "Currency": "USD", "Amount": str(price) } } ] }
+        headers = self.generate_headers(method, endpoint, params)
+        url = self.api_url + endpoint
+        response = json.loads(requests.get(url, headers=headers, params=params).text)
+        print(response)
+        # TODO wait until buy order is confirmed successful, if fails then give up waiting
+        
     def withdrawItems(self, items):
         pass
     def depositItems(self, items):
