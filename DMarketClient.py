@@ -8,6 +8,19 @@ from furl import furl
 import threading
 import copy
 
+dmarket = DMarket("131", "313")
+
+dmarket.getPrices()
+
+dmarket.buyItemAtPrice()
+
+dmarket.sellItemAtPrice()
+
+dmarket.withdraw()
+
+dmarket.deposit()
+
+
 class DMarket:
     def __init__(self, public_key, secret_key):
         self.public_key = public_key
